@@ -47,7 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-17" value="触控板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="545" y="371" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="369" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
