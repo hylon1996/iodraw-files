@@ -43,8 +43,11 @@
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="462" y="352" as="sourcePoint" />
-            <mxPoint x="618.47" y="389.9799999999999" as="targetPoint" />
+            <mxPoint x="550" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-17" value="表面为触控层，下层为按键" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="580" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
