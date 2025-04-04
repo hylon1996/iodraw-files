@@ -64,8 +64,8 @@
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-22" value="切换右侧为触摸板模式/ABXY模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="441.5" y="160" width="88.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-23" value="表面为触控层，下层为按键" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="620" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-23" value="当右侧为触摸板模式时，ABXY键功能闭锁，当右侧为ABXY键模式时，触摸板功能闭锁（防止误触）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
