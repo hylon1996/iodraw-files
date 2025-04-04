@@ -49,7 +49,7 @@
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-17" value="触控板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="540" y="369" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
