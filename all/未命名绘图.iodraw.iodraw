@@ -61,7 +61,7 @@
             <mxPoint x="440" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-22" value="表面为触控层，下层为按键" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-22" value="切换右侧为触摸板模式或ABXY模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="441.5" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
