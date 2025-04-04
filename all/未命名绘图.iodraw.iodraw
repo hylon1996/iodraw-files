@@ -22,11 +22,11 @@
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.743;exitY=0.762;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="421.53" y="390.0200000000001" as="sourcePoint" />
-            <mxPoint x="471.5" y="450" as="targetPoint" />
+            <mxPoint x="480" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-10" value="表面为触控层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="490" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="454" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-11" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="471.5" y="295" width="20" height="20" as="geometry" />
