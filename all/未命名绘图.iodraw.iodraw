@@ -40,6 +40,12 @@
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-15" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="326.5" y="297.5" width="20" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462" y="352" as="sourcePoint" />
+            <mxPoint x="618.47" y="389.9799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
