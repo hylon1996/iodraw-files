@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zP1Ak4MKqYJ5vhoFkdN0-22" value="切换右侧为触摸板模式/ABXY模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="441.5" y="160" width="78.5" height="30" as="geometry" />
+          <mxGeometry x="441.5" y="160" width="88.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
