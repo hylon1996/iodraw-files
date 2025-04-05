@@ -208,8 +208,8 @@
         <mxCell id="BMu_eYnoKNIOcrIQvnkV-26" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; text-align: start;&quot;&gt;⑨&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=#000000;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="152" y="810" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BMu_eYnoKNIOcrIQvnkV-27" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; text-align: start;&quot;&gt;⑨&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=#000000;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="840" width="20" height="20" as="geometry" />
+        <mxCell id="BMu_eYnoKNIOcrIQvnkV-27" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;⑩&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=#000000;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="659" y="818" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
