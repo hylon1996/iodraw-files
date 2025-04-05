@@ -8,7 +8,7 @@
           <mxGeometry x="-330.9988235294117" y="412.0011477481617" width="1200" height="638" as="geometry" />
         </mxCell>
         <mxCell id="pBMcNppym62uecODu4Ei-2" value="用鼠标点击红圈里的白色方框，可以拖动字幕到视频的下边（一般视频的字幕都在下面）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=38;" vertex="1" parent="1">
-          <mxGeometry x="-83" y="412" width="371" height="378" as="geometry" />
+          <mxGeometry x="-34" y="459" width="371" height="378" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
