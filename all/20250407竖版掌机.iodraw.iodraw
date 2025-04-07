@@ -31,12 +31,6 @@
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="478.75" y="450" width="37.5" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="pkhj5MYX0_p7bFT-dnjz-17" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.399;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="189.79899999999998" y="471.499" as="sourcePoint" />
-            <mxPoint x="189.5" y="510.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-20" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.399;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="189" y="650" as="sourcePoint" />
@@ -83,6 +77,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="211" y="591" as="sourcePoint" />
             <mxPoint x="211" y="630.001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pkhj5MYX0_p7bFT-dnjz-32" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.399;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="680" as="sourcePoint" />
+            <mxPoint x="120" y="719.001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
