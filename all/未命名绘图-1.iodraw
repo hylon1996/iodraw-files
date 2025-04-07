@@ -136,6 +136,11 @@
         <mxCell id="cpfKZrkDL_yJa11luVGE-4" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="302" y="594" width="30" height="7.25" as="geometry" />
         </mxCell>
+        <mxCell id="cpfKZrkDL_yJa11luVGE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpfKZrkDL_yJa11luVGE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cpfKZrkDL_yJa11luVGE-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;arcSize=47;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="489.36" y="583" width="5" height="44.62" as="geometry" />
         </mxCell>
