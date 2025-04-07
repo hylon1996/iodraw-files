@@ -178,8 +178,8 @@
             <mxPoint x="149" y="1012.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUOGL_kIBwpxPvRs0Y_D-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180.15" y="1011.4499999999999" width="38.7" height="38.7" as="geometry" />
+        <mxCell id="TUOGL_kIBwpxPvRs0Y_D-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180.15" y="1011.45" width="38.55" height="38.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
