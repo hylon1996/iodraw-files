@@ -8,7 +8,7 @@
           <mxGeometry x="-288.9999712775734" y="366.00355813419117" width="856" height="780" as="geometry" />
         </mxCell>
         <mxCell id="pBMcNppym62uecODu4Ei-2" value="把鼠标放在红圈的位置上，可以调整文本的时常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=38;" vertex="1" parent="1">
-          <mxGeometry x="80" y="567" width="371" height="378" as="geometry" />
+          <mxGeometry x="58" y="590" width="371" height="378" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
