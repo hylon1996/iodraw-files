@@ -89,7 +89,7 @@
           <mxGeometry x="405" y="461" width="30" height="6" as="geometry" />
         </mxCell>
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-48" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="256" y="498.49" width="5.99" height="8" as="geometry" />
+          <mxGeometry x="256" y="498.5" width="5.99" height="8" as="geometry" />
         </mxCell>
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-52" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;direction=north;" vertex="1" parent="1">
           <mxGeometry x="298.505" y="455.015" width="8" height="5.99" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="298.505" y="544.005" width="8" height="5.99" as="geometry" />
         </mxCell>
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-54" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="344" y="498" width="5.99" height="8" as="geometry" />
+          <mxGeometry x="344" y="498.5" width="5.99" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
