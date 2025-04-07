@@ -160,9 +160,6 @@
             <mxPoint x="181" y="1049.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUOGL_kIBwpxPvRs0Y_D-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="181" y="1012" width="37.3" height="37.3" as="geometry" />
-        </mxCell>
         <mxCell id="TUOGL_kIBwpxPvRs0Y_D-52" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="1049.3" as="sourcePoint" />
@@ -207,8 +204,8 @@
         </mxCell>
         <mxCell id="TUOGL_kIBwpxPvRs0Y_D-60" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="1040" as="sourcePoint" />
-            <mxPoint x="228.3" y="1039.996" as="targetPoint" />
+            <mxPoint x="215.35" y="980.3" as="sourcePoint" />
+            <mxPoint x="183.65" y="980.296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
