@@ -191,10 +191,10 @@
           <mxGeometry x="297.6203810567666" y="590.2480762113534" width="30" height="6" as="geometry" />
         </mxCell>
         <mxCell id="cpfKZrkDL_yJa11luVGE-3" value="SELECT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="261.3" y="592.93" width="30" height="7.25" as="geometry" />
+          <mxGeometry x="260" y="592.93" width="30" height="7.25" as="geometry" />
         </mxCell>
         <mxCell id="cpfKZrkDL_yJa11luVGE-4" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="305.81" y="592.93" width="30" height="7.25" as="geometry" />
+          <mxGeometry x="302" y="594" width="30" height="7.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
