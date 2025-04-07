@@ -55,12 +55,6 @@
             <mxPoint x="292.501" y="551.501" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pkhj5MYX0_p7bFT-dnjz-21" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.994;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="311" y="515" as="sourcePoint" />
-            <mxPoint x="350.4" y="515.2" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-22" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.994;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="312" y="490" as="sourcePoint" />
@@ -84,6 +78,12 @@
         </mxCell>
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="445" y="450" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="pkhj5MYX0_p7bFT-dnjz-28" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.994;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="500" as="sourcePoint" />
+            <mxPoint x="419" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
