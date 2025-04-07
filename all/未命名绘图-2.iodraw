@@ -201,7 +201,7 @@
         </mxCell>
         <mxCell id="TUOGL_kIBwpxPvRs0Y_D-60" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="218.4" y="980.3" as="sourcePoint" />
+            <mxPoint x="218.7" y="980.3" as="sourcePoint" />
             <mxPoint x="181" y="980.296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
