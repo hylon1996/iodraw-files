@@ -101,10 +101,10 @@
           <mxGeometry x="344" y="498.5" width="5.99" height="8" as="geometry" />
         </mxCell>
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="570" width="15" height="15" as="geometry" />
+          <mxGeometry x="283.51" y="585" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="pkhj5MYX0_p7bFT-dnjz-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="252.49" y="570" width="15" height="15" as="geometry" />
+          <mxGeometry x="252.49" y="585" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
