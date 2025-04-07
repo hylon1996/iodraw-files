@@ -190,6 +190,9 @@
         <mxCell id="cpfKZrkDL_yJa11luVGE-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;arcSize=50;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="297.6203810567666" y="590.2480762113534" width="30" height="6" as="geometry" />
         </mxCell>
+        <mxCell id="cpfKZrkDL_yJa11luVGE-3" value="SC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="620" y="560" width="30" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
