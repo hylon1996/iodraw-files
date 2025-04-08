@@ -169,6 +169,9 @@
             <mxPoint x="452.65999999999997" y="774.4399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TUOGL_kIBwpxPvRs0Y_D-66" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="488" y="681" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
