@@ -153,7 +153,7 @@
         </mxCell>
         <mxCell id="TUOGL_kIBwpxPvRs0Y_D-45" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.506;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="181.106" y="1080.9029999999998" as="sourcePoint" />
+            <mxPoint x="181.106" y="1079" as="sourcePoint" />
             <mxPoint x="181" y="1049.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
