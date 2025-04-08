@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TUOGL_kIBwpxPvRs0Y_D-3" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;rounded=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="335" y="485" width="330" height="445" as="geometry" />
-        </mxCell>
         <mxCell id="TUOGL_kIBwpxPvRs0Y_D-66" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="451.5" y="818.25" width="97" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="TUOGL_kIBwpxPvRs0Y_D-3" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;rounded=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="335" y="485" width="330" height="445" as="geometry" />
         </mxCell>
         <mxCell id="TUOGL_kIBwpxPvRs0Y_D-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="320" height="240" as="geometry" />
@@ -60,9 +60,6 @@
         </mxCell>
         <mxCell id="TUOGL_kIBwpxPvRs0Y_D-30" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;aspect=fixed;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="550.13" y="778.75" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TUOGL_kIBwpxPvRs0Y_D-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="452" y="818.75" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="TUOGL_kIBwpxPvRs0Y_D-32" value="BACK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="465" y="757" width="30" height="10" as="geometry" />
