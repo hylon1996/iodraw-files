@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Fts1Le65Br7gdIaEjTJz">
-    <mxGraphModel dx="500" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="244" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,10 +416,10 @@
           <mxGeometry x="538.3100000000001" y="471.2399999999999" width="25.5" height="55.22" as="geometry" />
         </mxCell>
         <mxCell id="upVjnDeIbcjgBtaMhUIt-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="454.07" y="532.71" width="135.93" height="32.29" as="geometry" />
+          <mxGeometry x="454.07" y="532.71" width="135.93" height="37.29" as="geometry" />
         </mxCell>
         <mxCell id="upVjnDeIbcjgBtaMhUIt-111" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;如图所示，屏幕中虚拟键盘中的“123”为“I”区域，“456”为“II”区域，“789”为“III”区域，“*0#”为“IV”区域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="458.19" y="531.71" width="128.81" height="30" as="geometry" />
+          <mxGeometry x="462.04" y="600" width="128.81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
