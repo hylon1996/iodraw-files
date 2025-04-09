@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-223" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="940" width="70" height="44" as="geometry" />
+        </mxCell>
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-217" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="340" y="890" width="70" height="44" as="geometry" />
         </mxCell>
@@ -169,11 +172,8 @@
             <mxPoint x="311" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LlfV5gZBWRzT3bGvWhhu-222" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Select键在打字模式为符号键，单击快速调出标点符号&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-222" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;L1（左肩键）：向左选择或移动光标&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="947" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LlfV5gZBWRzT3bGvWhhu-223" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="940" width="70" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
