@@ -364,6 +364,9 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-290" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="459.13" y="500" width="80.87" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-291" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟键盘某一行的第三个&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
