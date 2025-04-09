@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="IHy9jJODseRblmuji4aR">
-    <mxGraphModel dx="420" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moxVmld1YGAYdEzGY96K-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="712" y="521.71" width="69" height="34" as="geometry" />
+          <mxGeometry x="712" y="521.71" width="75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="moxVmld1YGAYdEzGY96K-82" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟键盘某区域的第二个字符&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="712" y="521.71" width="73.5" height="30" as="geometry" />
