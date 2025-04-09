@@ -313,7 +313,7 @@
         <mxCell id="moxVmld1YGAYdEzGY96K-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="634" y="527" width="73" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="moxVmld1YGAYdEzGY96K-79" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟键盘某区域的第一个&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="moxVmld1YGAYdEzGY96K-79" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟键盘某区域的第一个字符&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="637" y="527" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moxVmld1YGAYdEzGY96K-80" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
@@ -326,7 +326,7 @@
           <mxGeometry x="712" y="521.71" width="60" height="34" as="geometry" />
         </mxCell>
         <mxCell id="moxVmld1YGAYdEzGY96K-82" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟键盘某区域的第二个&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="712" y="521.71" width="60" height="30" as="geometry" />
+          <mxGeometry x="704.38" y="580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moxVmld1YGAYdEzGY96K-83" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="moxVmld1YGAYdEzGY96K-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
