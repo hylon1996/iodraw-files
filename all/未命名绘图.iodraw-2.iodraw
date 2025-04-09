@@ -367,8 +367,8 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-291" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;退出KMBN（Key Mode B Numbe）模式，返回到KMB模式。如果输入模式只支持输入数字，则直接退出Key Mode模式&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="459.13" y="500" width="100.87" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LlfV5gZBWRzT3bGvWhhu-292" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="667.91" width="60" height="30" as="geometry" />
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-293" value="&lt;font color=&quot;#ffffff&quot;&gt;A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="669.67" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
