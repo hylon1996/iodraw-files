@@ -340,8 +340,11 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-283" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="510" y="565" width="60" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="LlfV5gZBWRzT3bGvWhhu-284" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟键盘某一行的第二个&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-284" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟键盘某一行的第三个&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-285" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="734.34" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
