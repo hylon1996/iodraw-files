@@ -184,6 +184,9 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-225" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="220" y="940" width="60" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-226" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;L2：退格键（Back Space）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="942" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
