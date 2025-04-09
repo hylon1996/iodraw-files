@@ -406,7 +406,7 @@
         <mxCell id="upVjnDeIbcjgBtaMhUIt-106" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;按掌机的任意方向键会选中一个三字符的区域（默认选择 I 区域），如图所示，此时按Y则输入1，按B输入2，按A输入3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="468.76" y="394" width="101.12" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="upVjnDeIbcjgBtaMhUIt-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF33FF;strokeWidth=0.5;dashed=1;" vertex="1" parent="1">
+        <mxCell id="upVjnDeIbcjgBtaMhUIt-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="455.5" y="507.31" width="62" height="18.53" as="geometry" />
         </mxCell>
         <mxCell id="upVjnDeIbcjgBtaMhUIt-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF33FF;strokeWidth=0.5;dashed=1;" vertex="1" parent="1">
