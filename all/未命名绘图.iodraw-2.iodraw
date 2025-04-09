@@ -292,8 +292,8 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-266" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="116" y="560" width="60" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="LlfV5gZBWRzT3bGvWhhu-267" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟数字键盘的第一行&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-267" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟数字键盘的第二行&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
