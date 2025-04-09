@@ -311,10 +311,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moxVmld1YGAYdEzGY96K-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="634" y="527" width="60" height="34" as="geometry" />
+          <mxGeometry x="634" y="527" width="73" height="34" as="geometry" />
         </mxCell>
         <mxCell id="moxVmld1YGAYdEzGY96K-79" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟键盘某区域的第一个&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="644.38" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="637" y="527" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moxVmld1YGAYdEzGY96K-80" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
