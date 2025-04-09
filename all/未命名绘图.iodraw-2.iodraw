@@ -385,6 +385,9 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-296" value="&lt;font color=&quot;#ffffff&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="427.38" y="635.12" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-298" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="589" y="565" width="60" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
