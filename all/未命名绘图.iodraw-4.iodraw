@@ -418,6 +418,9 @@
         <mxCell id="upVjnDeIbcjgBtaMhUIt-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="454.07" y="532.71" width="135.93" height="32.29" as="geometry" />
         </mxCell>
+        <mxCell id="upVjnDeIbcjgBtaMhUIt-111" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;选择屏幕中虚拟数字键盘的 IV 区域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="458.19" y="531.71" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
