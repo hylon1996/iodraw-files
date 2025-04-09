@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-228" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="364" y="456" width="70" height="34" as="geometry" />
+          <mxGeometry x="332" y="450" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-229" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;R1（右肩键）：向右选择或移动光标&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="366.37" y="456" width="60" height="30" as="geometry" />
