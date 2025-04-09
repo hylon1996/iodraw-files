@@ -7,9 +7,9 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-234" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="274" y="570.66" width="46" height="39.34" as="geometry" />
         </mxCell>
-        <mxCell id="LlfV5gZBWRzT3bGvWhhu-221" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;exitX=0.408;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LlfV5gZBWRzT3bGvWhhu-222">
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-221" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="315" y="939" as="sourcePoint" />
+            <mxPoint x="270" y="840" as="sourcePoint" />
             <mxPoint x="311" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
