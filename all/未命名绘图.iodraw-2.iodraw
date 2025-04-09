@@ -160,9 +160,6 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;arcSize=47;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="514.880063509461" y="745.9410267584309" width="5" height="44.62" as="geometry" />
         </mxCell>
-        <mxCell id="LlfV5gZBWRzT3bGvWhhu-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;arcSize=19;" vertex="1" parent="1">
-          <mxGeometry x="379" y="661.5" width="30" height="12" as="geometry" />
-        </mxCell>
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;arcSize=19;" vertex="1" parent="1">
           <mxGeometry x="419" y="661.5" width="30" height="12" as="geometry" />
         </mxCell>
