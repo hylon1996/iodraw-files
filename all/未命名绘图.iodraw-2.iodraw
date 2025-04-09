@@ -154,7 +154,7 @@
         <mxCell id="LlfV5gZBWRzT3bGvWhhu-216" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Select键在打字模式为符号键，单击快速调出标点符号&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="344" y="894" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LlfV5gZBWRzT3bGvWhhu-218" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.318;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="LlfV5gZBWRzT3bGvWhhu-218" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;exitX=0.318;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="444.0000000000001" y="890.592" as="sourcePoint" />
             <mxPoint x="431.62" y="788.5" as="targetPoint" />
