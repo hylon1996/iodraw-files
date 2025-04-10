@@ -139,7 +139,7 @@
         <mxCell id="iAxJJNacSqX0cKVzumVc-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="662.5" y="382" width="41" height="3.5" as="geometry" />
         </mxCell>
-        <mxCell id="iAxJJNacSqX0cKVzumVc-44" value="&lt;font color=&quot;#ff33ff&quot;&gt;Hylon Keyboard Mode需要的键位&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iAxJJNacSqX0cKVzumVc-44" value="&lt;font style=&quot;background-color: rgb(255, 51, 255);&quot; color=&quot;#ffffff&quot;&gt;Hylon Keyboard Mode需要的键位&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="441" y="316" width="209" height="30" as="geometry" />
         </mxCell>
       </root>
