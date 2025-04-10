@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iAxJJNacSqX0cKVzumVc-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;" vertex="1" parent="1">
-          <mxGeometry x="446.99" y="307" width="197.01" height="38" as="geometry" />
+          <mxGeometry x="446.99" y="318" width="197.01" height="27" as="geometry" />
         </mxCell>
         <mxCell id="iAxJJNacSqX0cKVzumVc-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="584.5" y="421.49" width="30" height="9.5" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry x="662.5" y="382" width="41" height="3.5" as="geometry" />
         </mxCell>
         <mxCell id="iAxJJNacSqX0cKVzumVc-44" value="&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;Hylon Keyboard Mode需要的键位&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="441" y="316" width="209" height="30" as="geometry" />
+          <mxGeometry x="441" y="288" width="209" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
