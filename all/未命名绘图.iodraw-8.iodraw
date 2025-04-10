@@ -187,6 +187,12 @@
         <mxCell id="iAxJJNacSqX0cKVzumVc-53" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;R2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="683" y="353" width="24" height="14.5" as="geometry" />
         </mxCell>
+        <mxCell id="iAxJJNacSqX0cKVzumVc-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.573;entryY=-0.46;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#EA6B66;" edge="1" parent="1" source="iAxJJNacSqX0cKVzumVc-53" target="iAxJJNacSqX0cKVzumVc-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="581" y="384" as="sourcePoint" />
+            <mxPoint x="596" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
