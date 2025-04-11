@@ -182,7 +182,7 @@
           <mxGeometry x="760" y="439.5" width="198" height="186.08" as="geometry" />
         </mxCell>
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-62" value="当处于拼音模式——选择联想词汇的时候，L1、R1的功能是切换选择的目标，如图中所示就是按L1选择“售后”，按R1选择“笔记本”；按R2确定输入选择的目标，如图中所示就是输入“到”；L2是返回，即退出联想词汇模式。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="760" y="444.08" width="198" height="175.5" as="geometry" />
+          <mxGeometry x="760" y="520" width="198" height="99.58" as="geometry" />
         </mxCell>
         <mxCell id="bAotbBe8GFtuwJTRmH9N-1" value="联想" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="408.92" width="35" height="30" as="geometry" />
