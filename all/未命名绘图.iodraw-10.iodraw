@@ -37,11 +37,11 @@
         <mxCell id="FB6sVHtLN0_Gweem2JgW-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="490" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FB6sVHtLN0_Gweem2JgW-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="560" y="490" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-15" value="&lt;font color=&quot;#ffffff&quot;&gt;L2 删除&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FB6sVHtLN0_Gweem2JgW-16" value="&lt;font color=&quot;#ffffff&quot;&gt;A 确认&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
