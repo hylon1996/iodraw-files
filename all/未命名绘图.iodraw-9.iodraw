@@ -175,10 +175,10 @@
         <mxCell id="rllWqOBhB9t6K856VnHY-68" value="Start" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="702" y="575" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rllWqOBhB9t6K856VnHY-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rllWqOBhB9t6K856VnHY-70" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="760" as="sourcePoint" />
-            <mxPoint x="620" y="740" as="targetPoint" />
+            <mxPoint x="610" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
