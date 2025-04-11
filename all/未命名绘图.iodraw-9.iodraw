@@ -10,12 +10,6 @@
         <mxCell id="m0rklKKNznAhAQfKpoZu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="320" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="m0rklKKNznAhAQfKpoZu-10" value="A 确认" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="535" y="450" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m0rklKKNznAhAQfKpoZu-9" value="L2 删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="446" y="450" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="m0rklKKNznAhAQfKpoZu-5" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="320" as="sourcePoint" />
@@ -24,9 +18,6 @@
         </mxCell>
         <mxCell id="m0rklKKNznAhAQfKpoZu-6" value="搜索" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m0rklKKNznAhAQfKpoZu-7" value="X 编辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="360" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m0rklKKNznAhAQfKpoZu-8" value="B 返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="620" y="450" width="60" height="30" as="geometry" />
