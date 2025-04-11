@@ -34,6 +34,9 @@
         <mxCell id="FB6sVHtLN0_Gweem2JgW-9" value="&lt;font color=&quot;#ffffff&quot;&gt;Hylon Key Mode&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FB6sVHtLN0_Gweem2JgW-10" value="&lt;font color=&quot;#ffffff&quot;&gt;Y 扩选&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
