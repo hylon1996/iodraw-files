@@ -47,7 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rllWqOBhB9t6K856VnHY-17" value="&lt;font color=&quot;#ffffff&quot;&gt;a b c&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rllWqOBhB9t6K856VnHY-18" value="&lt;font color=&quot;#ffffff&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
