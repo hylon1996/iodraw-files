@@ -139,8 +139,8 @@
         <mxCell id="rllWqOBhB9t6K856VnHY-58" value="L2 删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="440" y="537" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rllWqOBhB9t6K856VnHY-59" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="487" width="60" height="80" as="geometry" />
+        <mxCell id="rllWqOBhB9t6K856VnHY-59" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="487" width="17.25" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
