@@ -55,20 +55,8 @@
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-26" value="&lt;font color=&quot;#ffffff&quot;&gt;t u v&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="512.0043136160714" y="602.0828669084821" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="605.5043136160714" y="547.0828669084821" width="33" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="582.0043136160714" y="570.5828669084821" width="33" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="605.5043136160714" y="594.0828669084821" width="33" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="629.0043136160714" y="570.5828669084821" width="33" height="33" as="geometry" />
-        </mxCell>
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-31" value="&lt;font color=&quot;#ffffff&quot;&gt;d e f&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="592.0043136160714" y="548.5828669084821" width="60" height="30" as="geometry" />
+          <mxGeometry x="592.0043136160714" y="625.5828669084821" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-32" value="&lt;font color=&quot;#ffffff&quot;&gt;m n o&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510.0043136160714" y="660.002866908482" width="60" height="30" as="geometry" />
