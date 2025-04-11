@@ -23,7 +23,7 @@
           <mxGeometry x="660" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Y 扩选&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="584" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-7" value="&lt;font color=&quot;#ffffff&quot;&gt;X 编辑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="490" width="60" height="30" as="geometry" />
