@@ -37,6 +37,9 @@
         <mxCell id="FB6sVHtLN0_Gweem2JgW-10" value="&lt;font color=&quot;#ffffff&quot;&gt;SE 中&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="280" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FB6sVHtLN0_Gweem2JgW-11" value="&lt;font color=&quot;#ffffff&quot;&gt;Y 扩选&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
