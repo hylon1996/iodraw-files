@@ -62,7 +62,7 @@
           <mxGeometry x="570.1943136160714" y="570.5828669084821" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-33" value="&lt;font color=&quot;#ffffff&quot;&gt;pqrs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620.0043136160714" y="570.5828669084821" width="60" height="30" as="geometry" />
+          <mxGeometry x="616.0043136160714" y="570.5828669084821" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-34" value="&lt;font color=&quot;#ffffff&quot;&gt;wxyz&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="665.3843136160714" y="710.002866908482" width="60" height="30" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="683.1342745535715" y="542.082857142857" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bAotbBe8GFtuwJTRmH9N-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;fillColor=none;strokeColor=#FFFFFF;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="581.81" y="547.08" width="79.92" height="79.92" as="geometry" />
+          <mxGeometry x="560.4599999999999" y="627.08" width="79.92" height="79.92" as="geometry" />
         </mxCell>
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="760" y="510" width="198" height="115.58" as="geometry" />
