@@ -193,8 +193,11 @@
         <mxCell id="FB6sVHtLN0_Gweem2JgW-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="529.64" y="505" width="20" height="11.66" as="geometry" />
         </mxCell>
-        <mxCell id="FB6sVHtLN0_Gweem2JgW-65" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="482.41" width="20" height="7.59" as="geometry" />
+        <mxCell id="FB6sVHtLN0_Gweem2JgW-65" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;a&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="529.64" y="505" width="20" height="7.59" as="geometry" />
+        </mxCell>
+        <mxCell id="FB6sVHtLN0_Gweem2JgW-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
