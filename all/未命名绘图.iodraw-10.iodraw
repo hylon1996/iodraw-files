@@ -23,7 +23,7 @@
           <mxGeometry x="800.0000390624999" y="575.000009765625" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-22" value="R1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="805.0000390624999" y="516.000009765625" width="60" height="30" as="geometry" />
+          <mxGeometry x="853.1300390624999" y="546.500009765625" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-24" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -155,7 +155,7 @@
           <mxGeometry x="816.0000390624999" y="526.250009765625" width="7.13" height="9.5" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-54" value="R2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="805.0000390624999" y="535.750009765625" width="60" height="30" as="geometry" />
+          <mxGeometry x="808.1300390624999" y="516.000009765625" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-58" value="SE 符" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="522.0000390624999" y="573.500009765625" width="70" height="30" as="geometry" />
