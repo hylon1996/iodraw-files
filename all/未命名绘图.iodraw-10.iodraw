@@ -181,8 +181,8 @@
         <mxCell id="bAotbBe8GFtuwJTRmH9N-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="890" y="360" width="198" height="182.58" as="geometry" />
         </mxCell>
-        <mxCell id="bAotbBe8GFtuwJTRmH9N-63" value="当处于拼音模式——选择联想词汇的时候，L1、R1的功能是切换选择的目标，如图中所示就是按L1选择“售后”，按R1选择“笔记本”；按R2确定输入选择的目标，如图中所示就是输入“到”；L2是返回，即退出联想词汇模式。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="888.1256863839286" y="579.9971428571429" width="198" height="99.58" as="geometry" />
+        <mxCell id="bAotbBe8GFtuwJTRmH9N-63" value="当处于拼音模式——选择联想词汇的时候，L1、R1的功能是切换选择的目标，如图中所示就是按L1选择“售后”，按R1选择“笔记本”；按R2确定输入选择的目标，如图中所示就是输入“到”；L2是返回，即退出联想词汇模式。&lt;div&gt;除此之外，&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="889.9956863839286" y="401.4971428571429" width="198" height="99.58" as="geometry" />
         </mxCell>
         <mxCell id="bAotbBe8GFtuwJTRmH9N-64" value="联想" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="552.4956863839286" y="325.91714285714295" width="35" height="30" as="geometry" />
