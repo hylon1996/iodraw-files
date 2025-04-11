@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m0rklKKNznAhAQfKpoZu-10" value="X 编辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="535" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="m0rklKKNznAhAQfKpoZu-9" value="Y 扩选" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="446" y="450" width="60" height="30" as="geometry" />
         </mxCell>
@@ -36,9 +39,6 @@
         </mxCell>
         <mxCell id="m0rklKKNznAhAQfKpoZu-8" value="B 返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="620" y="450" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m0rklKKNznAhAQfKpoZu-10" value="X 编辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="535" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m0rklKKNznAhAQfKpoZu-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="620" y="450" width="60" height="30" as="geometry" />
