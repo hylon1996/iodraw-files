@@ -143,7 +143,7 @@
           <mxGeometry x="536.0000390624999" y="500.00000976562495" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-50" value="L1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="520.0000390624999" y="535.750009765625" width="60" height="30" as="geometry" />
+          <mxGeometry x="520.0000390624999" y="546.000009765625" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-51" value="L2 删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="532.0000390624999" y="515.000009765625" width="60" height="30" as="geometry" />
