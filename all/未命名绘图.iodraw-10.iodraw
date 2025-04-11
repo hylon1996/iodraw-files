@@ -190,9 +190,6 @@
             <mxPoint x="817.1300390625" y="592.500009765625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB6sVHtLN0_Gweem2JgW-61" value="&lt;font color=&quot;#ffffff&quot;&gt;中&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="910.0000390624999" y="404.000009765625" width="18.5" height="18.5" as="geometry" />
-        </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="532" y="486.84" width="20" height="11.66" as="geometry" />
         </mxCell>
@@ -201,6 +198,9 @@
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-67" value="Hylon Key Mode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="522" y="355.92" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FB6sVHtLN0_Gweem2JgW-68" value="Hylon Key Mode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
