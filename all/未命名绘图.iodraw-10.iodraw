@@ -22,9 +22,6 @@
         <mxCell id="FB6sVHtLN0_Gweem2JgW-5" value="&lt;font color=&quot;#ffffff&quot;&gt;B 返回&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FB6sVHtLN0_Gweem2JgW-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Y 扩选&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="540" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-7" value="&lt;font color=&quot;#ffffff&quot;&gt;X 编辑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="490" width="60" height="30" as="geometry" />
         </mxCell>
@@ -36,6 +33,9 @@
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-10" value="&lt;font color=&quot;#ffffff&quot;&gt;SE 中&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FB6sVHtLN0_Gweem2JgW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
