@@ -169,7 +169,7 @@
             <mxPoint x="730.97" y="553.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rllWqOBhB9t6K856VnHY-67" value="Select 符号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="rllWqOBhB9t6K856VnHY-67" value="SE 符" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="445" y="573" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rllWqOBhB9t6K856VnHY-68" value="Start" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
