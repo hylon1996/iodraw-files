@@ -148,8 +148,14 @@
         <mxCell id="rllWqOBhB9t6K856VnHY-60" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;direction=east;" vertex="1" parent="1">
           <mxGeometry x="724" y="526.25" width="7.13" height="9.5" as="geometry" />
         </mxCell>
-        <mxCell id="rllWqOBhB9t6K856VnHY-62" value="L1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="820" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="rllWqOBhB9t6K856VnHY-62" value="R2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="713" y="535.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rllWqOBhB9t6K856VnHY-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="510" as="sourcePoint" />
+            <mxPoint x="730" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
