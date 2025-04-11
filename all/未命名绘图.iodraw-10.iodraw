@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="6hjqGl7WcogAeLBzKibi">
-    <mxGraphModel dx="1235" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="355" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,12 @@
         </mxCell>
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="426.0042745535715" y="515.5028571428571" width="12" height="8.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="841" y="496" width="198" height="171.92" as="geometry" />
+        </mxCell>
+        <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-62" value="当处于拼音模式——选择拼音字母的时候：&lt;span style=&quot;background-color: initial;&quot;&gt;按L2是删除掉一个字母，按R2是选择该字母或字母组合。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;如图所示——此时按L2为删除掉已经输入的字母a/b/c&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;；按L1是向左选择字母/字母组合（因为已经是最左边了，所以再向左选就是选择字母c）；&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;按R1是向右选择字母/字母组合，所以左图中按R1是选择字母b；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;按R2是确认，在图中就是确认选择字母a，然后进入选择汉字的阶段。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="841" y="496" width="198" height="166.92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
