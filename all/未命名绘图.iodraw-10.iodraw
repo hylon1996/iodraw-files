@@ -193,7 +193,7 @@
         <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="702" y="394.58" width="188" height="105.42" as="geometry" />
         </mxCell>
-        <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-12" value="当处于拼音模式——选择拼音的时候：&lt;span style=&quot;background-color: initial;&quot;&gt;按L2是删除掉一个字母，按R2是选择该字母或字母组合。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;如图所示，此时按L2为删除掉已经输入的拼音a/b/c，按L1向左选择拼音，&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="oBZ3iv9kCQCRlZeQ5-3t-12" value="当处于拼音模式——选择拼音的时候：&lt;span style=&quot;background-color: initial;&quot;&gt;按L2是删除掉一个字母，按R2是选择该字母或字母组合。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;如图所示，此时按L2为删除掉已经输入的拼音a/b/c，按L1向左选择拼音，&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="702" y="394.58" width="188" height="95.42" as="geometry" />
         </mxCell>
       </root>
