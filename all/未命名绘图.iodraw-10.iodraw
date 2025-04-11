@@ -20,7 +20,7 @@
           <mxGeometry x="410" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-5" value="&lt;font color=&quot;#ffffff&quot;&gt;B 返回&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="660" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Y 扩选&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="490" width="60" height="30" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="400" y="280" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB6sVHtLN0_Gweem2JgW-9" value="&lt;font color=&quot;#ffffff&quot;&gt;Hylon Key Mode&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="280" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
