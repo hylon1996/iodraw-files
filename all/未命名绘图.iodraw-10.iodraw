@@ -28,6 +28,9 @@
         <mxCell id="FB6sVHtLN0_Gweem2JgW-7" value="&lt;font color=&quot;#ffffff&quot;&gt;X 编辑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="504" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FB6sVHtLN0_Gweem2JgW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="294" width="320" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
