@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="RNFxQMzM3SUZKeKM3aSQ">
-    <mxGraphModel dx="737" dy="355" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="516" dy="248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,12 +132,6 @@
         </mxCell>
         <mxCell id="CE36Dtw37adBgJ4Nvlg5-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="404.9999804687501" y="464.2099999999999" width="12" height="8.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CE36Dtw37adBgJ4Nvlg5-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2E1700;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="723.9957262602306" y="389.99714285714276" width="198" height="186.08" as="geometry" />
-        </mxCell>
-        <mxCell id="CE36Dtw37adBgJ4Nvlg5-42" value="当处于拼音模式——选择汉字的时候：L2会从删除键改为返回键，所以&lt;span style=&quot;background-color: initial;&quot;&gt;按L2是返回选择拼音字母的阶段，按R2是确认选择目标汉字。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;如图所示——此时按L2会返回选择拼音字母a，并返回到选择拼音字母的阶段；按R2确认选择目标汉字“啊”；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;按L1向左选择，因为图中选择的是最左边的字，所以此时按L1会直接选择最右边的“岸”字；按R1是向右选择，在图中就是选择“阿”字。长按L1/R1会快速向左/右选择。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="723.9957262602306" y="394.5771428571427" width="198" height="175.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
