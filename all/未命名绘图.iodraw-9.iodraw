@@ -172,7 +172,7 @@
         <mxCell id="7gQvcKjMUfEQm219khnI-41" value="R2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="595.9999218750002" y="513.0800097656249" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7gQvcKjMUfEQm219khnI-42" value="当处于拼音模式——选择联想词汇的时候，L1、R1的功能是切换选择的目标，如图中所示就是按L1选择“售后”，按R1选择“笔记本”；按R2确定输入选择的目标，如图中所示就是输入“到”；L2是返回，即退出联想词汇模式。&lt;div&gt;除此之外，按任意字母键（十字键、ABXY）也会退出联想词汇，进入新的拼音——选择拼音字母模式阶段。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="7gQvcKjMUfEQm219khnI-42" value="当处于拼音模式——普通模式的时候，L2为删除（退格）键，如图所示，即为删除“式”字；R2为空格键，长按为回车键；L1为向左移动光标位置，在图中即为把光标移到“模式”两个字之间；R1为向右移动光标位置，在图中因为光标位置已经在最右边了，所以光标位置不动。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="660.9999609374998" y="434.000009765625" width="198" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7gQvcKjMUfEQm219khnI-43" value="普通模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
