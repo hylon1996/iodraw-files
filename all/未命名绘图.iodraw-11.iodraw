@@ -24,8 +24,8 @@
         </mxCell>
         <mxCell id="VXiA6C6ZpexpkqmVV0e5-42" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="324" y="280.0000195312499" as="sourcePoint" />
-            <mxPoint x="324" y="260.0000195312499" as="targetPoint" />
+            <mxPoint x="350.13" y="279.0000195312499" as="sourcePoint" />
+            <mxPoint x="350.13" y="259.0000195312499" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VXiA6C6ZpexpkqmVV0e5-43" value="&lt;font color=&quot;#ffffff&quot;&gt;a b c&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="VXiA6C6ZpexpkqmVV0e5-72" value="当处于拼音模式——选择联想词汇的时候，L1、R1的功能是切换选择的目标，如图中所示就是按L1选择“售后”，按R1选择“笔记本”；按R2确定输入选择的目标，如图中所示就是输入“到”；L2是返回，即退出联想词汇模式。&lt;div&gt;除此之外，按任意字母键（十字键、ABXY）也会退出联想词汇，进入新的拼音——选择拼音字母模式阶段。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="639.9999999999999" y="311.000009765625" width="198" height="160.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VXiA6C6ZpexpkqmVV0e5-73" value="L2 返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="231" y="297" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
