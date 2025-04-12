@@ -115,6 +115,9 @@
         <mxCell id="uXNYCNH8PaJo-kFxuaPE-228" value="&lt;font color=&quot;#ffffff&quot;&gt;d e f&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="506.4599609375" y="453.500029296875" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uXNYCNH8PaJo-kFxuaPE-229" value="L2 删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="284" y="374" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
