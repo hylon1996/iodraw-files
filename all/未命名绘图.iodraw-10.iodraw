@@ -139,8 +139,8 @@
         <mxCell id="bAotbBe8GFtuwJTRmH9N-148" value="L1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="100" y="460.08000976562494" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bAotbBe8GFtuwJTRmH9N-149" value="L2 返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="112" y="429.08000976562494" width="60" height="30" as="geometry" />
+        <mxCell id="bAotbBe8GFtuwJTRmH9N-149" value="L2 删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="429.08000976562494" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bAotbBe8GFtuwJTRmH9N-150" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=none;direction=west;" vertex="1" parent="1">
           <mxGeometry x="142" y="469.33000976562494" width="7.13" height="9.5" as="geometry" />
