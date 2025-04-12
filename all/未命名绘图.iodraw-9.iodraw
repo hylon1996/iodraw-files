@@ -25,9 +25,6 @@
             <mxPoint x="343" y="320.00000976562495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wd59DwGI36e92XAuCW8l-11" value="&lt;font color=&quot;#ffffff&quot;&gt;a b c&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="421.48" y="455.1800097656249" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wd59DwGI36e92XAuCW8l-12" value="&lt;font color=&quot;#ffffff&quot;&gt;g h i&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="396.48" y="477.08" width="60" height="30" as="geometry" />
         </mxCell>
@@ -50,7 +47,7 @@
           <mxGeometry x="332" y="448.08000976562494" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Da2ILl78Fm6SzkPCR6hr-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15.31;notch=0;fillColor=none;strokeColor=#FFFFFF;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="442" y="414.6" width="30" height="33.48" as="geometry" />
+          <mxGeometry x="436.48" y="455.18" width="30" height="33.48" as="geometry" />
         </mxCell>
         <mxCell id="wd59DwGI36e92XAuCW8l-36" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=none;direction=west;" parent="1" vertex="1">
           <mxGeometry x="362" y="487.33000976562494" width="7.13" height="9.5" as="geometry" />
@@ -114,6 +111,9 @@
         </mxCell>
         <mxCell id="Da2ILl78Fm6SzkPCR6hr-202" value="当处于拼音模式——普通模式的时候，L2为删除（退格）键，如图所示，即为删除“式”字；R2为空格键，长按为回车键；L1为向左移动光标位置，在图中即为把光标移到“模式”两个字之间；R1为向右移动光标位置，在图中因为光标位置已经在最右边了，所以光标位置不动。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="660.0000390625" y="405.49997070312503" width="198" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="wd59DwGI36e92XAuCW8l-11" value="&lt;font color=&quot;#ffffff&quot;&gt;a b c&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="421.48" y="455.1800097656249" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
