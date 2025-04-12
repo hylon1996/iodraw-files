@@ -193,17 +193,8 @@
         <mxCell id="EwMjIL4mrTRk3XSDq4qP-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="426.0042745535715" y="515.5028571428571" width="12" height="8.5" as="geometry" />
         </mxCell>
-        <mxCell id="EwMjIL4mrTRk3XSDq4qP-63" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="110" y="603.08" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EwMjIL4mrTRk3XSDq4qP-64" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="190" y="603.58" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EwMjIL4mrTRk3XSDq4qP-65" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="150" y="700" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EwMjIL4mrTRk3XSDq4qP-66" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="150" y="502.33" width="120" height="80" as="geometry" />
+        <mxCell id="EwMjIL4mrTRk3XSDq4qP-67" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600.58" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
