@@ -112,18 +112,6 @@
         <mxCell id="Da2ILl78Fm6SzkPCR6hr-161" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1048.0000390625" y="405.079970703125" width="198" height="130.58" as="geometry" />
         </mxCell>
-        <mxCell id="Da2ILl78Fm6SzkPCR6hr-165" value="ST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="978.0000000000001" y="512.159990234375" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Da2ILl78Fm6SzkPCR6hr-166" value="R1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="986.1300000000002" y="482.15999023437496" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Da2ILl78Fm6SzkPCR6hr-192" value="L1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="698.0000000000001" y="483.15999023437496" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Da2ILl78Fm6SzkPCR6hr-201" value="R2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="982.9999609375003" y="453.15998046874995" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Da2ILl78Fm6SzkPCR6hr-202" value="当处于拼音模式——普通模式的时候，L2为删除（退格）键，如图所示，即为删除“式”字；R2为空格键，长按为回车键；L1为向左移动光标位置，在图中即为把光标移到“模式”两个字之间；R1为向右移动光标位置，在图中因为光标位置已经在最右边了，所以光标位置不动。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1048.0000390625" y="408.079970703125" width="198" height="126" as="geometry" />
         </mxCell>
