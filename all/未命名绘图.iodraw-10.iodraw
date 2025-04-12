@@ -200,7 +200,7 @@
           <mxGeometry x="780" y="528.08" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EwMjIL4mrTRk3XSDq4qP-85" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="820" y="548.08" width="40" height="80" as="geometry" />
+          <mxGeometry x="820" y="570" width="40" height="58.08" as="geometry" />
         </mxCell>
         <mxCell id="EwMjIL4mrTRk3XSDq4qP-86" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;direction=north;" vertex="1" parent="1">
           <mxGeometry x="790" y="588.08" width="60" height="41.92" as="geometry" />
