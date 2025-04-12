@@ -139,9 +139,6 @@
             <mxPoint x="252" y="434.08000976562494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bAotbBe8GFtuwJTRmH9N-147" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="116" y="414.08000976562494" width="18" height="18" as="geometry" />
-        </mxCell>
         <mxCell id="bAotbBe8GFtuwJTRmH9N-148" value="L1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="100" y="460.08000976562494" width="60" height="30" as="geometry" />
         </mxCell>
