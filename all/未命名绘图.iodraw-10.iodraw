@@ -30,8 +30,8 @@
         </mxCell>
         <mxCell id="bAotbBe8GFtuwJTRmH9N-122" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="177" y="320.0000097656249" as="sourcePoint" />
-            <mxPoint x="177" y="300.0000097656249" as="targetPoint" />
+            <mxPoint x="170" y="320.9200097656249" as="sourcePoint" />
+            <mxPoint x="170" y="300.9200097656249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bAotbBe8GFtuwJTRmH9N-123" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
@@ -185,7 +185,7 @@
           <mxGeometry x="449.9999999999999" y="351" width="198" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bAotbBe8GFtuwJTRmH9N-159" value="普通模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="111.99568638392861" y="295.91714285714295" width="35" height="30" as="geometry" />
+          <mxGeometry x="112" y="295.92" width="58" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
