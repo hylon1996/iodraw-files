@@ -133,12 +133,6 @@
         <mxCell id="w5h7U2zQOoX7wXZF7T2c-162" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="335.9999609375001" y="421.20999023437486" width="12" height="8.5" as="geometry" />
         </mxCell>
-        <mxCell id="w5h7U2zQOoX7wXZF7T2c-163" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2E1700;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="655" y="360" width="198" height="173.08" as="geometry" />
-        </mxCell>
-        <mxCell id="w5h7U2zQOoX7wXZF7T2c-164" value="当处于拼音模式——选择汉字的时候：L2会从删除键改为返回键，所以&lt;span style=&quot;background-color: initial;&quot;&gt;按L2是返回选择拼音字母的阶段，按R2是确认选择目标汉字。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;如图所示——此时按L2会返回选择拼音字母a，并返回到选择拼音字母的阶段；按R2确认选择目标汉字“啊”；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;按L1向左选择，因为图中选择的是最左边的字，所以选择框不动；按R1是向右选择，在图中就是选择“阿”字。长按L1/R1会快速向左/右选择。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="654.9957067289808" y="358.7871330915176" width="198" height="175.5" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
