@@ -148,11 +148,11 @@
             <mxPoint x="220" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wd59DwGI36e92XAuCW8l-61" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="260" y="640.08" width="79.92" height="79.92" as="geometry" />
-        </mxCell>
         <mxCell id="wd59DwGI36e92XAuCW8l-63" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="260" y="645.06" width="36" height="69.96" as="geometry" />
+        </mxCell>
+        <mxCell id="wd59DwGI36e92XAuCW8l-61" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640.08" width="79.92" height="79.92" as="geometry" />
         </mxCell>
         <mxCell id="wd59DwGI36e92XAuCW8l-62" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="20" height="79.92" as="geometry" />
