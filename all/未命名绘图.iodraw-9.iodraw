@@ -21,8 +21,8 @@
         </mxCell>
         <mxCell id="wd59DwGI36e92XAuCW8l-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="372" y="339.00000976562495" as="sourcePoint" />
-            <mxPoint x="372" y="319.00000976562495" as="targetPoint" />
+            <mxPoint x="367" y="339.00000976562495" as="sourcePoint" />
+            <mxPoint x="367" y="319.00000976562495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wd59DwGI36e92XAuCW8l-12" value="&lt;font color=&quot;#ffffff&quot;&gt;g h i&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -236,7 +236,7 @@
           <mxGeometry x="1219.99998046875" y="405.000009765625" width="198" height="160.5" as="geometry" />
         </mxCell>
         <mxCell id="uXNYCNH8PaJo-kFxuaPE-38" value="联想" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="212.99998046874987" y="318.91999999999996" width="27" height="30" as="geometry" />
+          <mxGeometry x="339.99998046874987" y="314.91999999999996" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
