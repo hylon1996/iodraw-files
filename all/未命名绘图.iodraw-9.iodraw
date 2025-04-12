@@ -106,7 +106,7 @@
         <mxCell id="Da2ILl78Fm6SzkPCR6hr-202" value="当处于拼音模式——普通模式的时候，L2为删除（退格）键，如图所示，即为删除“式”字；R2为空格键，长按为回车键；L1为向左移动光标位置，在图中即为把光标移到“模式”两个字之间；R1为向右移动光标位置，在图中因为光标位置已经在最右边了，所以光标位置不动。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="660.0000390625" y="405.49997070312503" width="198" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="wd59DwGI36e92XAuCW8l-11" value="&lt;font color=&quot;#ffffff&quot;&gt;a b c&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wd59DwGI36e92XAuCW8l-11" value="&lt;font color=&quot;#ffffff&quot;&gt;abc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="421.48" y="452.7900097656249" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wd59DwGI36e92XAuCW8l-13" value="&lt;font color=&quot;#ffffff&quot;&gt;j k l&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
