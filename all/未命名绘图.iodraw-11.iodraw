@@ -121,7 +121,7 @@
         <mxCell id="WmIzVr0S_QckOPJL0FVc-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="423.99994140624983" y="433.040029296875" width="18" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="WmIzVr0S_QckOPJL0FVc-37" value="当处于拼音模式——选择联想词汇的时候，L1、R1的功能是左右切换选择目标，如图中所示：此时按R1选择框会选到“笔记本”；L1的话，因为此时选择框在最左侧，所以按L1不会有反应；&lt;div&gt;按R2确定输入选择的目标，如图中所示就是输入“到”；L2是返回，即退出联想词汇模式。&lt;div&gt;除此之外，按任意字母键（十字键、ABXY）也会退出联想词汇，进入新的拼音——选择拼音字母模式阶段。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="WmIzVr0S_QckOPJL0FVc-37" value="当处于拼音模式——选择联想词汇的时候，L1、R1的功能是左右切换选择目标，如图中所示：此时按R1选择框会选到“笔记本”；L1的话，因为此时选择框在最左侧，所以按L1不会有反应；&lt;div&gt;按R2确定输入选择的目标，如图中所示就是输入“到”；L2是返回，即退出联想词汇模式，返回到普通模式。&lt;div&gt;除此之外，按任意字母键（十字键、ABXY）也会退出联想词汇，进入新的拼音——选择拼音字母模式阶段。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="745" y="355.65" width="198" height="172.79" as="geometry" />
         </mxCell>
         <mxCell id="WmIzVr0S_QckOPJL0FVc-38" value="联想" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
