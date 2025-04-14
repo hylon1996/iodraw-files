@@ -70,8 +70,8 @@
         <mxCell id="Rljr-mRMULpQzdrErF8T-52" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="470.63" width="4.69" height="6.25" as="geometry" />
         </mxCell>
-        <mxCell id="Rljr-mRMULpQzdrErF8T-54" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="210" y="440" width="4.69" height="6.25" as="geometry" />
+        <mxCell id="Rljr-mRMULpQzdrErF8T-54" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="269.38" y="450" width="6.25" height="4.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
