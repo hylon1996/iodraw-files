@@ -82,14 +82,14 @@
         <mxCell id="Rljr-mRMULpQzdrErF8T-61" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="594.65" y="392" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rljr-mRMULpQzdrErF8T-62" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
+        <mxCell id="Rljr-mRMULpQzdrErF8T-62" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="409.65" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rljr-mRMULpQzdrErF8T-63" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="577.5" y="375.35" width="60" height="30" as="geometry" />
+          <mxGeometry x="751" y="439.65000000000003" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rljr-mRMULpQzdrErF8T-64" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="560.35" y="392.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="740" y="386.6" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
