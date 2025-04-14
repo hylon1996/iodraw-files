@@ -50,7 +50,7 @@
           <mxGeometry x="248.75" y="450" width="47.5" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="Rljr-mRMULpQzdrErF8T-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="597.25" y="377.13" width="20.25" height="20.25" as="geometry" />
+          <mxGeometry x="709.83" y="653.8" width="18.2" height="18.2" as="geometry" />
         </mxCell>
         <mxCell id="Rljr-mRMULpQzdrErF8T-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="617.5" y="397.38" width="20.25" height="20.25" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="597.25" y="417.63" width="20.25" height="20.25" as="geometry" />
         </mxCell>
         <mxCell id="Rljr-mRMULpQzdrErF8T-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;shadow=0;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="693.7" y="653.8" width="52.5" height="52.5" as="geometry" />
+          <mxGeometry x="692.6800000000001" y="653.8" width="52.5" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
