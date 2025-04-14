@@ -55,7 +55,7 @@
         <mxCell id="Rljr-mRMULpQzdrErF8T-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;shadow=0;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="50" y="461.5" width="56" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="Rljr-mRMULpQzdrErF8T-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;direction=south;" vertex="1" parent="1">
+        <mxCell id="Rljr-mRMULpQzdrErF8T-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;direction=south;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="265.75" y="452" width="18.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Rljr-mRMULpQzdrErF8T-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;direction=west;" vertex="1" parent="1">
