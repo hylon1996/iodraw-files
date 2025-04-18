@@ -142,9 +142,6 @@
         <mxCell id="KelsVcld5kiIGIt8C3r1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.1;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="559.73" y="467.25" width="197.79" height="148.4" as="geometry" />
         </mxCell>
-        <mxCell id="KelsVcld5kiIGIt8C3r1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.4;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="650.8" y="615.6500000000001" width="20" height="15" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
