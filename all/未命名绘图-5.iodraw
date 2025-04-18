@@ -20,10 +20,10 @@
           <mxGeometry x="489.1" y="446.57068965517243" width="47.5" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="624.4100000000002" y="442.25068965517244" width="18.2" height="18.2" as="geometry" />
+          <mxGeometry x="624.2500000000002" y="440.2006896551724" width="18.2" height="18.2" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="607.5100000000001" y="459.1506896551725" width="18.2" height="18.2" as="geometry" />
+          <mxGeometry x="605.3000000000001" y="459.1506896551725" width="18.2" height="18.2" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="624.4100000000002" y="477.3506896551724" width="18.2" height="18.2" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="592.0800000000003" y="530.0006896551723" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-62" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="586.6099999999998" y="453.25068965517244" width="60" height="30" as="geometry" />
+          <mxGeometry x="570.2199999999998" y="570.0006896551724" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="428.6279478717671" y="259" width="300" height="168.75" as="geometry" />
