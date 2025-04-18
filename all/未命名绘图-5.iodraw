@@ -44,13 +44,13 @@
           <mxGeometry x="531.0979478717671" y="468.32068965517243" width="3" height="4" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-59" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="643.76" y="520" width="6.24" height="30" as="geometry" />
+          <mxGeometry x="643.76" y="520" width="6.24" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-60" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="642.62" y="560" width="9.46" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-61" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="592.0800000000003" y="530.0006896551723" width="60" height="30" as="geometry" />
+          <mxGeometry x="592.08" y="530" width="7.92" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-62" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="570.2199999999998" y="570.0006896551724" width="60" height="30" as="geometry" />
