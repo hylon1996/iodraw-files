@@ -56,10 +56,10 @@
           <mxGeometry x="635.7020521282329" y="336.50068965517244" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-zD1--6VkP7xhViep-Y-26" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="735.3720521282328" y="500.0006896551723" width="60" height="30" as="geometry" />
+          <mxGeometry x="618.7220521282328" y="354.3706896551723" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-zD1--6VkP7xhViep-Y-27" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="710.7520521282328" y="280.0006896551723" width="60" height="30" as="geometry" />
+          <mxGeometry x="618.7120521282328" y="318.6406896551723" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-zD1--6VkP7xhViep-Y-28" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="600.8520521282327" y="336.50068965517244" width="60" height="30" as="geometry" />
