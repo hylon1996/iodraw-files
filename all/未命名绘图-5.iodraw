@@ -26,7 +26,7 @@
           <mxGeometry x="607.5100000000001" y="459.1506896551725" width="18.2" height="18.2" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="624.4100000000002" y="476.0506896551724" width="18.2" height="18.2" as="geometry" />
+          <mxGeometry x="624.4100000000002" y="477.3506896551724" width="18.2" height="18.2" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="641.3099999999998" y="459.1606896551725" width="18.2" height="18.2" as="geometry" />
@@ -44,10 +44,10 @@
           <mxGeometry x="531.0979478717671" y="468.32068965517243" width="3" height="4" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-59" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="620.4100000000002" y="453.50068965517244" width="60" height="30" as="geometry" />
+          <mxGeometry x="643.7600000000002" y="520.0006896551724" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-60" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="603.5500000000001" y="470.1506896551723" width="60" height="30" as="geometry" />
+          <mxGeometry x="609.5400000000001" y="560.0006896551723" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-61" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="603.3500000000003" y="436.35068965517235" width="60" height="30" as="geometry" />
