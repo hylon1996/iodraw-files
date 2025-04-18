@@ -7,7 +7,7 @@
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6600CC;strokeColor=#FFFFFF;strokeWidth=0.2;gradientColor=#6666FF;arcSize=4;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="496.6279478717671" y="240" width="324" height="377" as="geometry" />
         </mxCell>
-        <mxCell id="Sn061TLV6Sl8AE_wWQuJ-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=0.2;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Sn061TLV6Sl8AE_wWQuJ-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=0.2;aspect=fixed;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="575.4579478717673" y="467.25" width="166.34" height="124.75" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6600CC;strokeColor=#808080;strokeWidth=0.1;shadow=0;gradientColor=default;gradientDirection=south;" vertex="1" parent="1">
@@ -88,7 +88,7 @@
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#808080;aspect=fixed;strokeWidth=0.1;" vertex="1" parent="1">
           <mxGeometry x="503.6279478717671" y="248.64999999999998" width="310" height="206.7" as="geometry" />
         </mxCell>
-        <mxCell id="Sn061TLV6Sl8AE_wWQuJ-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;aspect=fixed;strokeWidth=0.4;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="Sn061TLV6Sl8AE_wWQuJ-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;aspect=fixed;strokeWidth=0.4;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="508.6279478717671" y="252" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-72" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.1;" vertex="1" parent="1">
