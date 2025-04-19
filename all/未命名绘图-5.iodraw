@@ -589,7 +589,7 @@
         <mxCell id="E9ogFfU8s5sqrGuqPfA0-580" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.3;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="522.0599999999998" y="465.29999999999995" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="E9ogFfU8s5sqrGuqPfA0-581" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; text-align: justify; background-color: rgb(255, 255, 255); font-size: 8px;&quot;&gt;≡&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E9ogFfU8s5sqrGuqPfA0-581" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; text-align: justify; font-size: 8px; background-color: rgb(0, 0, 0);&quot;&gt;≡&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="590" width="10" height="8.95" as="geometry" />
         </mxCell>
       </root>
