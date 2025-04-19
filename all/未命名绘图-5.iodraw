@@ -523,11 +523,8 @@
         <mxCell id="yZLBHma0dbgOEBdOna2U-197" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="600.6414146205356" y="474.8028710937499" width="2" height="2" as="geometry" />
         </mxCell>
-        <mxCell id="oDc6kFgt1JWZln50wd_u-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yZLBHma0dbgOEBdOna2U-199" target="yZLBHma0dbgOEBdOna2U-104">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yZLBHma0dbgOEBdOna2U-199" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; text-align: justify; font-size: 8px; background-color: rgb(0, 0, 0);&quot;&gt;≡&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="638.9114146205358" y="598.5328710937499" width="10" as="geometry" />
+          <mxGeometry x="725.3114146205357" y="566.72287109375" width="10" as="geometry" />
         </mxCell>
         <mxCell id="yZLBHma0dbgOEBdOna2U-200" value="&lt;font color=&quot;#737373&quot;&gt;&lt;span style=&quot;font-size: 5px;&quot;&gt;Shift&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="705.6914146205357" y="543.31287109375" width="29.62" height="10.8" as="geometry" />
