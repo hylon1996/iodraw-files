@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="tYUcVzwJjqb3n1jzP_Kj">
-    <mxGraphModel dx="323" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,11 +103,8 @@
         <mxCell id="E9ogFfU8s5sqrGuqPfA0-653" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=default;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="493.5899999999998" y="454.04000000000013" width="9" height="9" as="geometry" />
         </mxCell>
-        <mxCell id="E9ogFfU8s5sqrGuqPfA0-654" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;shadow=0;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="372.95999999999975" y="430.49" width="56.1" height="56.1" as="geometry" />
-        </mxCell>
         <mxCell id="E9ogFfU8s5sqrGuqPfA0-655" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="502.59" y="320" width="190" height="190" as="geometry" />
+          <mxGeometry x="653.53" y="342.93" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="E9ogFfU8s5sqrGuqPfA0-657" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.1;gradientColor=none;gradientDirection=north;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="183.5999999999998" y="492.23" width="310" height="85.2" as="geometry" />
@@ -699,9 +696,6 @@
         </mxCell>
         <mxCell id="E9ogFfU8s5sqrGuqPfA0-852" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;shadow=0;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="430.49" width="56.1" height="56.1" as="geometry" />
-        </mxCell>
-        <mxCell id="E9ogFfU8s5sqrGuqPfA0-853" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=default;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="428.5" y="454.04000000000013" width="9" height="9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
