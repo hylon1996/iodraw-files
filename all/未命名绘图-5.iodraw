@@ -8,7 +8,7 @@
           <mxGeometry x="415" y="253" width="328" height="349" as="geometry" />
         </mxCell>
         <mxCell id="E9ogFfU8s5sqrGuqPfA0-146" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="369.7299999999999" y="477.13" width="60" height="25.87" as="geometry" />
+          <mxGeometry x="546.4599999999999" y="456.82" width="60" height="25.87" as="geometry" />
         </mxCell>
         <mxCell id="Sn061TLV6Sl8AE_wWQuJ-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;shadow=0;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="424.00000000000006" y="442.2606896551724" width="56.1" height="56.1" as="geometry" />
@@ -471,6 +471,9 @@
         </mxCell>
         <mxCell id="E9ogFfU8s5sqrGuqPfA0-145" value="&lt;font color=&quot;#737373&quot;&gt;&lt;span style=&quot;font-size: 5px;&quot;&gt;Ctrl&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="653.77" y="575" width="10" height="8.95" as="geometry" />
+        </mxCell>
+        <mxCell id="E9ogFfU8s5sqrGuqPfA0-147" value="&lt;font color=&quot;#737373&quot;&gt;&lt;span style=&quot;font-size: 5px;&quot;&gt;Ctrl&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="10" height="8.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
