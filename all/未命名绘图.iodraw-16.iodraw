@@ -7,15 +7,6 @@
         <mxCell id="PCHigNEQssueHmTuB6Tc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=default;arcSize=4;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="421" y="239" width="328" height="349" as="geometry" />
         </mxCell>
-        <mxCell id="PCHigNEQssueHmTuB6Tc-223" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;size=44;rounded=1;arcSize=29;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="421" y="400" width="328" height="188" as="geometry" />
-        </mxCell>
-        <mxCell id="PCHigNEQssueHmTuB6Tc-225" value="" style="endArrow=none;html=1;rounded=0;entryX=0.267;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="600" as="sourcePoint" />
-            <mxPoint x="649.996" y="399.99600000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
