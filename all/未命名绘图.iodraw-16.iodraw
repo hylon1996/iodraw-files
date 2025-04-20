@@ -82,8 +82,8 @@
             <mxPoint x="645" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PCHigNEQssueHmTuB6Tc-256" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="560" y="450" width="50" height="4" as="geometry" />
+        <mxCell id="PCHigNEQssueHmTuB6Tc-256" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="50" height="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
