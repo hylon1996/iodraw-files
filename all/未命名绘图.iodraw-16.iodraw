@@ -58,9 +58,9 @@
             <mxPoint x="545.0038766519824" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PCHigNEQssueHmTuB6Tc-245" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.1;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="PCHigNEQssueHmTuB6Tc-228">
+        <mxCell id="PCHigNEQssueHmTuB6Tc-245" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="590" as="sourcePoint" />
+            <mxPoint x="470" y="610" as="sourcePoint" />
             <mxPoint x="440" y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="441" y="589" />
