@@ -64,8 +64,8 @@
             <mxPoint x="749" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PCHigNEQssueHmTuB6Tc-249" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="PCHigNEQssueHmTuB6Tc-250" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
