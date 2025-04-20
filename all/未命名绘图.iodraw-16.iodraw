@@ -52,9 +52,6 @@
         <mxCell id="PCHigNEQssueHmTuB6Tc-16" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="687.9914146205357" y="454.45287109374993" width="9.78" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="PCHigNEQssueHmTuB6Tc-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="429.9993624923027" y="252.23287109375002" width="310" height="168.75" as="geometry" />
-        </mxCell>
         <mxCell id="PCHigNEQssueHmTuB6Tc-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="553.069362492303" y="437.50287109375" width="59.03" height="7" as="geometry" />
         </mxCell>
