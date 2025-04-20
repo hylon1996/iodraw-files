@@ -10,13 +10,10 @@
         <mxCell id="PCHigNEQssueHmTuB6Tc-223" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;size=44;rounded=1;arcSize=29;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="421" y="400" width="328" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="PCHigNEQssueHmTuB6Tc-224" value="" style="endArrow=none;html=1;rounded=0;entryX=0.267;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;exitX=0.305;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PCHigNEQssueHmTuB6Tc-223">
+        <mxCell id="PCHigNEQssueHmTuB6Tc-224" value="" style="endArrow=none;html=1;rounded=0;entryX=0.267;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="590" as="sourcePoint" />
-            <mxPoint x="518.576" y="399.99600000000004" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="550" />
-            </Array>
+            <mxPoint x="360" y="590" as="sourcePoint" />
+            <mxPoint x="359.996" y="399.99600000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
