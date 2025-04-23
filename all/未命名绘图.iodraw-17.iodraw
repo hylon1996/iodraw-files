@@ -301,7 +301,7 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-370" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="400" y="265" width="172.78" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-371" value="&lt;font color=&quot;#ffffff&quot;&gt;该掌机由一个全面屏手机（安卓系统，搭载安卓手机处理器）和一块充电宝（4：3屏幕，搭载低端处理器）组成。手机部分（&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;①&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;）有正常手机的全部功能，并在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1QUVvznjXfKu5q26LSv7-371" value="&lt;font color=&quot;#ffffff&quot;&gt;该掌机由一个全面屏手机（安卓系统，搭载安卓手机处理器）和一块充电宝（4：3屏幕，搭载低端处理器）组成。手机部分（&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; text-align: start; background-color: rgb(234, 107, 102);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;①&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;）有正常手机的全部功能，并在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="265" width="172" height="403" as="geometry" />
         </mxCell>
       </root>
