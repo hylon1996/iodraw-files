@@ -46,9 +46,6 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-401" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="440.6320358521913" y="467.15736852887056" width="18.2" height="18.2" as="geometry" />
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-402" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;gradientColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="417.3720358521915" y="526.6773685288706" width="31" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-403" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#808080;strokeColor=#FFFFFF;strokeWidth=0.1;" vertex="1" parent="1">
           <mxGeometry x="185.70203585219122" y="560.9966788736976" width="4" height="3" as="geometry" />
         </mxCell>
@@ -327,9 +324,6 @@
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-491" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;gradientColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="171.2" y="460" width="33" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-492" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;gradientColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="43" y="498.75" width="31" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
