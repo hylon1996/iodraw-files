@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mSURHo_fFKHV9ktFr7mu">
-    <mxGraphModel dx="98" dy="58" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,7 +298,7 @@
             <mxPoint x="260" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-376" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.963;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.513;entryY=1.107;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1QUVvznjXfKu5q26LSv7-277">
+        <mxCell id="1QUVvznjXfKu5q26LSv7-376" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.963;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504;entryY=1.139;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1QUVvznjXfKu5q26LSv7-277" target="1QUVvznjXfKu5q26LSv7-374">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="365.175799309896" y="457.2166666666668" as="sourcePoint" />
             <mxPoint x="365.3649999999999" y="438.504" as="targetPoint" />
@@ -325,8 +325,8 @@
             <mxPoint x="94.27" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-384" value="&lt;font color=&quot;#ffffff&quot;&gt;扳机键、肩键部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55.42" y="393.5" width="70.39" height="30" as="geometry" />
+        <mxCell id="1QUVvznjXfKu5q26LSv7-384" value="&lt;font color=&quot;#ffffff&quot;&gt;磁吸接口插槽（类似Switch2的Joycon部分）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55.42" y="393.5" width="139.58" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
