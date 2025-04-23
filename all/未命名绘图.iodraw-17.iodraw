@@ -321,8 +321,8 @@
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-383" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="94.80500000000006" y="449" as="sourcePoint" />
-            <mxPoint x="92" y="424" as="targetPoint" />
+            <mxPoint x="97.07500000000006" y="450" as="sourcePoint" />
+            <mxPoint x="94.27" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-384" value="&lt;font color=&quot;#ffffff&quot;&gt;扳机键、肩键部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
