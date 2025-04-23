@@ -145,9 +145,6 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-320" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;gradientColor=none;gradientDirection=north;arcSize=33;" vertex="1" parent="1">
           <mxGeometry x="636.6214111328127" y="406.49998256138406" width="22.98" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-321" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;gradientColor=none;gradientDirection=north;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="874.2214111328126" y="406.99998256138406" width="45.81" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-322" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;gradientColor=none;gradientDirection=north;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="603.2214111328126" y="406.99998256138406" width="45.81" height="34" as="geometry" />
         </mxCell>
@@ -326,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-384" value="&lt;font color=&quot;#ffffff&quot;&gt;磁吸接口插槽（类似Switch2的Joycon部分）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55.42" y="393.5" width="139.58" height="30" as="geometry" />
+          <mxGeometry x="49.95" y="392" width="139.58" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
