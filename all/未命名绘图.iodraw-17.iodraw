@@ -25,7 +25,7 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-280" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;shadow=0;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="161.45201143812898" y="492.2473563218392" width="52.5" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-281" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=#808080;" vertex="1" parent="1">
+        <mxCell id="1QUVvznjXfKu5q26LSv7-281" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="172.20201143812898" y="502.9973563218392" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-282" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;shadow=0;gradientColor=default;gradientDirection=south;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-287" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="440.6320114381288" y="509.1573563218393" width="18.2" height="18.2" as="geometry" />
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-288" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=#808080;" vertex="1" parent="1">
+        <mxCell id="1QUVvznjXfKu5q26LSv7-288" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="417.37201143812905" y="568.6773563218393" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-289" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#808080;strokeColor=#FFFFFF;strokeWidth=0.1;" vertex="1" parent="1">
