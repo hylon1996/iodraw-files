@@ -287,10 +287,10 @@
           <mxGeometry x="765.5934632610456" y="554.9999825613841" width="40" height="19" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-366" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="159.83" y="715" width="172.78" height="50" as="geometry" />
+          <mxGeometry x="159.83" y="715" width="172.78" height="35" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-367" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;上下屏幕分离模式&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="163.05" y="733" width="156.95" height="30" as="geometry" />
+          <mxGeometry x="167.75" y="725" width="156.95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
