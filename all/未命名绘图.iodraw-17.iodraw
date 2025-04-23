@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1QUVvznjXfKu5q26LSv7-374" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;②&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="258" y="390" width="15" height="12" as="geometry" />
+          <mxGeometry x="223.59" y="418" width="15" height="12" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-272" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;gradientColor=none;gradientDirection=north;arcSize=33;" vertex="1" parent="1">
           <mxGeometry x="320.3399593098959" y="448.4966666666668" width="22.98" height="34" as="geometry" />
@@ -307,14 +307,14 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-371" value="&lt;font color=&quot;#ffffff&quot;&gt;该掌机由一个全面屏手机&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; background-color: rgb(234, 107, 102);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ffffff&quot;&gt;①&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;（安卓系统，搭载安卓手机处理器）和一块充电宝掌机&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; background-color: rgb(234, 107, 102);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ffffff&quot;&gt;②&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;（4：3屏幕，搭载低端处理器）组成。&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#ffffff&quot;&gt;手机部分&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#ffffff&quot;&gt;有正常手机的全部功能，并在图示机身底侧有磁吸接口，&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="265" width="172" height="403" as="geometry" />
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-373" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.36;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1QUVvznjXfKu5q26LSv7-374">
+        <mxCell id="1QUVvznjXfKu5q26LSv7-373" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="254.29" y="368" as="sourcePoint" />
-            <mxPoint x="275.29" y="389" as="targetPoint" />
+            <mxPoint x="260" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-375" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;①&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220.59" y="402" width="21" height="24" as="geometry" />
+          <mxGeometry x="249.59" y="390" width="21" height="24" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-376" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.536;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
