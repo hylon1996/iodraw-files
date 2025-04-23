@@ -314,7 +314,13 @@
           <mxGeometry x="263" y="404" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-375" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;①&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="221" y="399" width="25" height="36" as="geometry" />
+          <mxGeometry x="221" y="399" width="21" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="1QUVvznjXfKu5q26LSv7-376" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="168" y="405" as="sourcePoint" />
+            <mxPoint x="196" y="396" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
