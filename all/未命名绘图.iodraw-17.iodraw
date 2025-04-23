@@ -65,10 +65,10 @@
           <mxGeometry x="402.8720358521915" y="478.14736852887035" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-409" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="506" y="574" width="13" height="11" as="geometry" />
+          <mxGeometry x="426.33" y="453.85" width="13" height="11" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-410" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="494.05" y="602" width="11.95" height="15" as="geometry" />
+          <mxGeometry x="410" y="469" width="11.95" height="15" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-411" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=north;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="155.1599837239586" y="192.99667887369804" width="310.22" height="152" as="geometry" />
