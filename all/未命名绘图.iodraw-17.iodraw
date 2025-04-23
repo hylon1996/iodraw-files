@@ -31,7 +31,7 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-396" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;shadow=0;gradientColor=default;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="406.58203585219155" y="515.9273685288706" width="52.5" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-397" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.2993693462171043;aspect=fixed;gradientColor=none;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="1QUVvznjXfKu5q26LSv7-397" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.2993693462171043;aspect=fixed;gradientColor=none;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="163.95203585219144" y="518.9973685288705" width="47.5" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-398" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
@@ -68,7 +68,7 @@
           <mxGeometry x="402.8720358521915" y="444.3473685288704" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-410" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="385.93203585219146" y="461.2473685288705" width="60" height="30" as="geometry" />
+          <mxGeometry x="424" y="461.25" width="21.93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-411" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;gradientDirection=north;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="155.1599837239586" y="192.99667887369804" width="310.22" height="152" as="geometry" />
