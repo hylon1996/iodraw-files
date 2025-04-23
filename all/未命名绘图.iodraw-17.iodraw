@@ -343,8 +343,8 @@
             <mxPoint x="92" y="424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-384" value="&lt;font color=&quot;#ffffff&quot;&gt;前置摄像头&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="93" y="398" width="70.39" height="30" as="geometry" />
+        <mxCell id="1QUVvznjXfKu5q26LSv7-384" value="&lt;font color=&quot;#ffffff&quot;&gt;扳机键、肩键部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="397.25" width="70.39" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
