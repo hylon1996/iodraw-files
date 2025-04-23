@@ -286,7 +286,7 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-365" value="System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#737373;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="765.5934632610456" y="554.9999825613841" width="40" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="1QUVvznjXfKu5q26LSv7-366" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="1QUVvznjXfKu5q26LSv7-366" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="159.82999999999998" y="715" width="172.78" height="60" as="geometry" />
         </mxCell>
       </root>
