@@ -337,6 +337,12 @@
         <mxCell id="1QUVvznjXfKu5q26LSv7-382" value="&lt;font color=&quot;#ffffff&quot;&gt;前置摄像头&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="49.95" y="165" width="70.39" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1QUVvznjXfKu5q26LSv7-383" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="78.15" y="444.32" as="sourcePoint" />
+            <mxPoint x="85.56801948466111" y="414.0019805153389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
