@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mSURHo_fFKHV9ktFr7mu">
-    <mxGraphModel dx="1052" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,6 +303,12 @@
         </mxCell>
         <mxCell id="1QUVvznjXfKu5q26LSv7-371" value="&lt;font color=&quot;#ffffff&quot;&gt;该掌机由一个全面屏手机&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; background-color: rgb(234, 107, 102);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;①&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;（安卓系统，搭载安卓手机处理器）和一块充电宝掌机&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; background-color: rgb(234, 107, 102);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;②&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;（4：3屏幕，搭载低端处理器）组成。&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#ffffff&quot;&gt;手机部分&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#ffffff&quot;&gt;有正常手机的全部功能，并在图示机身底侧有磁吸接口，&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="265" width="172" height="403" as="geometry" />
+        </mxCell>
+        <mxCell id="1QUVvznjXfKu5q26LSv7-373" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="593" y="458" as="sourcePoint" />
+            <mxPoint x="643" y="408" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
