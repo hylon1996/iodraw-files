@@ -19,12 +19,6 @@
         <mxCell id="iZ9kXvNFSiUvdH60pRFL-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00331A;strokeColor=#FFFFFF;strokeWidth=1;gradientColor=none;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="490" y="330" width="364.25" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="iZ9kXvNFSiUvdH60pRFL-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#001F10;strokeColor=#808080;strokeWidth=0.1;shadow=0;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="494.5" y="345" width="52.5" height="52.5" as="geometry" />
-        </mxCell>
-        <mxCell id="iZ9kXvNFSiUvdH60pRFL-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=0.5;gradientColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="505.25" y="355.75" width="31" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="iZ9kXvNFSiUvdH60pRFL-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#001F10;strokeColor=#808080;strokeWidth=0.1;shadow=0;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="796.9999999999998" y="410" width="52.5" height="52.5" as="geometry" />
         </mxCell>
