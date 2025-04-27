@@ -85,14 +85,8 @@
         <mxCell id="TTNca9d_e3fgRSJDy-Lz-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="420" y="457.43" width="17" height="8.5" as="geometry" />
         </mxCell>
-        <mxCell id="TTNca9d_e3fgRSJDy-Lz-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="440" y="457.43" width="20" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="TTNca9d_e3fgRSJDy-Lz-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="460" y="457.43" width="20" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="TTNca9d_e3fgRSJDy-Lz-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="457.43" width="20" height="10" as="geometry" />
+        <mxCell id="TTNca9d_e3fgRSJDy-Lz-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="437" y="457.43" width="17" height="8.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
