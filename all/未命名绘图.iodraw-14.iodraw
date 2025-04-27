@@ -175,7 +175,7 @@
         <mxCell id="lIC5-BspxRlqTmkOG_T_-102" value="0 --" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="655.59" y="368" width="17.52" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="lIC5-BspxRlqTmkOG_T_-103" value="2 abc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
+        <mxCell id="lIC5-BspxRlqTmkOG_T_-103" value="# ST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="660" y="470" width="17.52" height="8" as="geometry" />
         </mxCell>
       </root>
