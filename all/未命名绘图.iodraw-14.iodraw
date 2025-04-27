@@ -151,6 +151,9 @@
         <mxCell id="lIC5-BspxRlqTmkOG_T_-94" value="4 ghi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="632.22" y="350" width="17.52" height="8" as="geometry" />
         </mxCell>
+        <mxCell id="lIC5-BspxRlqTmkOG_T_-95" value="5 jkl" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="17.52" height="8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
