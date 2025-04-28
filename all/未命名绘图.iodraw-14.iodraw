@@ -89,7 +89,7 @@
           <mxGeometry x="569.8699609374999" y="357.499990234375" width="25" height="8" as="geometry" />
         </mxCell>
         <mxCell id="lIC5-BspxRlqTmkOG_T_-140" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=4.149999999999977;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;" parent="1" vertex="1">
-          <mxGeometry x="593.8699609374999" y="357.499990234375" width="23" height="8" as="geometry" />
+          <mxGeometry x="593.8699609374999" y="357.499990234375" width="25" height="8" as="geometry" />
         </mxCell>
         <mxCell id="lIC5-BspxRlqTmkOG_T_-141" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=4.149999999999977;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;" parent="1" vertex="1">
           <mxGeometry x="544.8699609374999" y="357.499990234375" width="25" height="8" as="geometry" />
@@ -122,10 +122,10 @@
           <mxGeometry x="548.6099609375" y="357.059990234375" width="17.52" height="8" as="geometry" />
         </mxCell>
         <mxCell id="lIC5-BspxRlqTmkOG_T_-151" value="5 jkl" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" parent="1" vertex="1">
-          <mxGeometry x="573.6099609375" y="332.369990234375" width="17.52" height="8" as="geometry" />
+          <mxGeometry x="573.2399609375" y="357.499990234375" width="17.52" height="8" as="geometry" />
         </mxCell>
         <mxCell id="lIC5-BspxRlqTmkOG_T_-152" value="6 mno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" parent="1" vertex="1">
-          <mxGeometry x="596.6099609375001" y="356.999990234375" width="17.52" height="8" as="geometry" />
+          <mxGeometry x="596.6099609375001" y="328.369990234375" width="17.52" height="8" as="geometry" />
         </mxCell>
         <mxCell id="lIC5-BspxRlqTmkOG_T_-153" value="7 pqrs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;" parent="1" vertex="1">
           <mxGeometry x="550.2399609375" y="365.869990234375" width="17.52" height="8" as="geometry" />
