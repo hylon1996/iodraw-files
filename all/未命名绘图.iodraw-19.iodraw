@@ -307,10 +307,10 @@
         <mxCell id="Ii363qvC_ML24sbH5kqq-254" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.1;" vertex="1" parent="1">
           <mxGeometry x="802.72" y="414" width="13" height="2" as="geometry" />
         </mxCell>
-        <mxCell id="Ii363qvC_ML24sbH5kqq-255" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ii363qvC_ML24sbH5kqq-255" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="370" as="sourcePoint" />
-            <mxPoint x="560" y="320" as="targetPoint" />
+            <mxPoint x="1000" y="480" as="sourcePoint" />
+            <mxPoint x="1050" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
