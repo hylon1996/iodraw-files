@@ -101,7 +101,16 @@
           <mxGeometry x="100" y="540" width="25" height="16.63" as="geometry" />
         </mxCell>
         <mxCell id="Ii363qvC_ML24sbH5kqq-50" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;aspect=fixed;size=5;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="40" y="570" width="25" height="16.63" as="geometry" />
+          <mxGeometry y="560" width="25" height="16.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii363qvC_ML24sbH5kqq-51" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;aspect=fixed;size=5;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="25" y="560" width="25" height="16.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii363qvC_ML24sbH5kqq-52" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;aspect=fixed;size=5;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="25" height="16.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii363qvC_ML24sbH5kqq-53" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;aspect=fixed;size=5;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="75" y="560" width="25" height="16.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
