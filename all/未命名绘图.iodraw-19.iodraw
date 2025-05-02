@@ -289,8 +289,11 @@
         <mxCell id="Ii363qvC_ML24sbH5kqq-248" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;direction=west;aspect=fixed;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="871.22" y="334.31999999999994" width="3" height="4.01" as="geometry" />
         </mxCell>
-        <mxCell id="Ii363qvC_ML24sbH5kqq-249" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="960" y="350" width="11" height="10" as="geometry" />
+        <mxCell id="Ii363qvC_ML24sbH5kqq-249" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="810.22" y="351.32" width="11" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii363qvC_ML24sbH5kqq-250" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="340" width="11" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
