@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ii363qvC_ML24sbH5kqq-6" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=west;fillColor=#000000;strokeColor=#FFFFFF;size=40;rounded=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="320" y="220" width="601.11" height="300" as="geometry" />
+          <mxGeometry x="160" y="220" width="761.11" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Ii363qvC_ML24sbH5kqq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="300" y="230" width="482.22" height="280" as="geometry" />
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="Ii363qvC_ML24sbH5kqq-115" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=5;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="275" y="700" width="50" height="16.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii363qvC_ML24sbH5kqq-116" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
