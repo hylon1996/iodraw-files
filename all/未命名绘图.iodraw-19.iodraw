@@ -371,10 +371,10 @@
           <mxGeometry x="296.24225806451614" y="699.1099999999999" width="31.46709677419355" height="19.17" as="geometry" />
         </mxCell>
         <mxCell id="ib13aZUm0gpqm2R-NKnk-46" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp; &amp;nbsp; 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=6;fillColor=default;container=0;" parent="1" vertex="1">
-          <mxGeometry x="214.47225806451613" y="641.2799999999999" width="15.733548387096775" height="8.946" as="geometry" />
+          <mxGeometry x="214.47" y="641.28" width="16.53" height="8.95" as="geometry" />
         </mxCell>
         <mxCell id="ib13aZUm0gpqm2R-NKnk-55" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp; &amp;nbsp; 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=6;fillColor=default;container=0;" parent="1" vertex="1">
-          <mxGeometry x="230.72580645161293" y="641.2799999999999" width="15.733548387096775" height="8.946" as="geometry" />
+          <mxGeometry x="230.73" y="641.28" width="16.27" height="8.95" as="geometry" />
         </mxCell>
         <mxCell id="ib13aZUm0gpqm2R-NKnk-56" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp; &amp;nbsp; 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=6;fillColor=default;container=0;" parent="1" vertex="1">
           <mxGeometry x="246.98" y="641.28" width="17.02" height="8.95" as="geometry" />
