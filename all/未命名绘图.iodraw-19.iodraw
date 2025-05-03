@@ -430,6 +430,9 @@
         <mxCell id="iJf0GyeB4iF9q0wmA8xt-5" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;↓&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;container=0;" vertex="1" parent="1">
           <mxGeometry x="343.85" y="702.24" width="14.903225806451612" height="12.833333333333332" as="geometry" />
         </mxCell>
+        <mxCell id="iJf0GyeB4iF9q0wmA8xt-6" value="←" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="740" width="14.903225806451612" height="12.833333333333332" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
