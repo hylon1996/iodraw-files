@@ -445,6 +445,9 @@
         <mxCell id="ib13aZUm0gpqm2R-NKnk-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0.3;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="240" y="680" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ib13aZUm0gpqm2R-NKnk-42" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="125" y="626" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
