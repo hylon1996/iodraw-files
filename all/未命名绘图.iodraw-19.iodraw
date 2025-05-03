@@ -265,9 +265,6 @@
         <mxCell id="ib13aZUm0gpqm2R-NKnk-87" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;&amp;nbsp;&amp;amp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;fillColor=#000000;container=0;" parent="1" vertex="1">
           <mxGeometry x="221.70967741935482" y="642.2433333333333" width="10.838709677419354" height="5.133333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="ib13aZUm0gpqm2R-NKnk-91" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;Ctrl&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="217.64516129032256" y="701.2766666666666" width="14.903225806451612" height="12.833333333333332" as="geometry" />
-        </mxCell>
         <mxCell id="ib13aZUm0gpqm2R-NKnk-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0.3;strokeColor=#FFFFFF;container=0;" parent="1" vertex="1">
           <mxGeometry x="354.0893548387097" y="698.4699999999999" width="15.733548387096775" height="19.17" as="geometry" />
         </mxCell>
@@ -296,7 +293,7 @@
           <mxGeometry x="322.62225806451613" y="640.9599999999999" width="78.66774193548387" height="76.68" as="geometry" />
         </mxCell>
         <mxCell id="Ii363qvC_ML24sbH5kqq-232" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;Alt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="354.74491935483866" y="701.6649999999998" width="14.422419354838711" height="12.780000000000001" as="geometry" />
+          <mxGeometry x="219.91491935483864" y="701.9749999999998" width="14.422419354838711" height="12.780000000000001" as="geometry" />
         </mxCell>
         <mxCell id="Ii363qvC_ML24sbH5kqq-239" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;container=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="647.3499999999998" width="14.422419354838711" height="12.780000000000001" as="geometry" />
