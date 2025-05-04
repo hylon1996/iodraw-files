@@ -148,6 +148,9 @@
         <mxCell id="UuGbZOj7cJ1_6TKNX5pg-62" value="System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="344" y="500" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-63" value="Select" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="526" y="557" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
