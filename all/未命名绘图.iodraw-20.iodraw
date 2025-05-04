@@ -160,16 +160,16 @@
         <mxCell id="UuGbZOj7cJ1_6TKNX5pg-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;arcSize=32;" vertex="1" parent="1">
           <mxGeometry x="770" y="268.5" width="27" height="11.5" as="geometry" />
         </mxCell>
-        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-69" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;" vertex="1" parent="1">
+        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-69" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="8.24" height="11" as="geometry" />
         </mxCell>
         <mxCell id="UuGbZOj7cJ1_6TKNX5pg-71" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;direction=west;" vertex="1" parent="1">
           <mxGeometry x="152.88" y="342.5" width="8.24" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-72" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;direction=north;" vertex="1" parent="1">
+        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-72" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="195" y="297.76" width="11" height="8.24" as="geometry" />
         </mxCell>
-        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-73" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;direction=south;" vertex="1" parent="1">
+        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-73" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="195" y="385" width="11" height="8.24" as="geometry" />
         </mxCell>
       </root>
