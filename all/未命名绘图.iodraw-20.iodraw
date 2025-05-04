@@ -160,8 +160,8 @@
         <mxCell id="UuGbZOj7cJ1_6TKNX5pg-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;arcSize=32;" vertex="1" parent="1">
           <mxGeometry x="775" y="268.5" width="27" height="11.5" as="geometry" />
         </mxCell>
-        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="44" y="297" width="120" height="60" as="geometry" />
+        <mxCell id="UuGbZOj7cJ1_6TKNX5pg-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="44" y="297" width="1045" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
