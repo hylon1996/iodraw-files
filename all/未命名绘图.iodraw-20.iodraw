@@ -293,7 +293,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sPo-pTEJ9Ubc71_s8m5x-17" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; text-align: start;&quot;&gt;①&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="134" width="17" height="30" as="geometry" />
+          <mxGeometry x="191" y="137" width="17" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="sPo-pTEJ9Ubc71_s8m5x-18" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; text-align: start;&quot;&gt;①&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="256" y="142" width="17" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
