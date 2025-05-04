@@ -190,6 +190,12 @@
             <mxPoint x="321.21" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sPo-pTEJ9Ubc71_s8m5x-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="120" as="sourcePoint" />
+            <mxPoint x="410" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
