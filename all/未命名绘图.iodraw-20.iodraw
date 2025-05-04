@@ -232,12 +232,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sPo-pTEJ9Ubc71_s8m5x-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
+        <mxCell id="sPo-pTEJ9Ubc71_s8m5x-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I6E7_H6_GIvH-TelRz94-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="178" y="488" as="sourcePoint" />
-            <mxPoint x="136" y="669" as="targetPoint" />
+            <mxPoint x="190" y="669" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="178" y="632" />
+              <mxPoint x="185" y="486" />
             </Array>
           </mxGeometry>
         </mxCell>
