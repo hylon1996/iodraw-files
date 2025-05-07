@@ -577,9 +577,6 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-176" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;" vertex="1" parent="1">
           <mxGeometry x="819" y="338" width="2" height="2" as="geometry" />
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-177" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
-          <mxGeometry x="829" y="253" width="50" height="150.85" as="geometry" />
-        </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-178" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
           <mxGeometry x="690" y="427" width="240" height="60" as="geometry" />
         </mxCell>
@@ -792,9 +789,6 @@
             <mxPoint x="862" y="265.8" as="sourcePoint" />
             <mxPoint x="964" y="265" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-300" value="&lt;font color=&quot;#ffffff&quot;&gt;A面支架（从该图所示的下边向上展开）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="964" y="233" width="65" height="64" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-301" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
