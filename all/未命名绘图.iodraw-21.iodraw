@@ -653,7 +653,10 @@
           <mxGeometry x="750" y="162" width="12" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-260" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="720" y="185" width="12" height="60" as="geometry" />
+          <mxGeometry x="718" y="162" width="12" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-261" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="622" y="194" width="133" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
