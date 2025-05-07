@@ -535,6 +535,9 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-176" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;" vertex="1" parent="1">
           <mxGeometry x="890" y="325" width="2" height="2" as="geometry" />
         </mxCell>
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-177" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
+          <mxGeometry x="900" y="240" width="50" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-178" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
           <mxGeometry x="764.25" y="414" width="233.5" height="50" as="geometry" />
         </mxCell>
