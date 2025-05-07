@@ -17,7 +17,7 @@
           <mxGeometry x="349" y="583" width="133" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-285" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="683.5" y="583" width="133" height="10" as="geometry" />
+          <mxGeometry x="691" y="583" width="133" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-276" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=west;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="494" y="413" width="12" height="163" as="geometry" />
@@ -764,7 +764,7 @@
           <mxGeometry x="842.75" y="204" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-297" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="824" y="583" width="96.5" height="10" as="geometry" />
+          <mxGeometry x="829" y="583" width="96.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-298" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="842.75" y="593" width="69" height="30" as="geometry" />
