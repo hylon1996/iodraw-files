@@ -775,8 +775,8 @@
             <mxPoint x="964" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-300" value="&lt;font color=&quot;#ffffff&quot;&gt;A面支架（从图示）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="964" y="240" width="55" height="30" as="geometry" />
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-300" value="&lt;font color=&quot;#ffffff&quot;&gt;A面支架（从该图所示的下边向上展开）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="964" y="234" width="55" height="64" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-301" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
