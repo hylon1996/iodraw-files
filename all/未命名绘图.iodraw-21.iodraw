@@ -814,7 +814,7 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-313" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
           <mxGeometry x="690" y="257" width="80" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-314" value="&lt;font color=&quot;#ffffff&quot;&gt;D面支架（从该图示的左侧向右展开）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-314" value="&lt;font color=&quot;#ffffff&quot;&gt;D面支架（图示支架顶部为转轴，底部为开合处）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="269" width="62" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-315" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
