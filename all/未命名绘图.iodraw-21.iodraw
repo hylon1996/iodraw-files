@@ -748,7 +748,7 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-278" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="222" y="415.5" width="12" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-279" value="&lt;font color=&quot;#ffffff&quot;&gt;D面左侧接口区，从上到下依次为：电源接口、&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;一体机模式开关按键、大屏/双屏模式切换滑动开关、&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、Teyp-C接口、双USB接口、3.5mm耳机接口、&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;开关机指纹二合一按键&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-279" value="&lt;font color=&quot;#ffffff&quot;&gt;D面左侧接口区，从上到下依次为：电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、Teyp-C接口、双USB接口、3.5mm耳机接口、&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;开关机指纹二合一按键&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="142" y="390.32" width="80" height="213.37" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-281" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
@@ -806,7 +806,7 @@
           <mxGeometry x="593" y="213" width="54" height="51" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-311" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="69" height="30" as="geometry" />
+          <mxGeometry x="142" y="287" width="69" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
