@@ -778,8 +778,8 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-304" value="&lt;font color=&quot;#ffffff&quot;&gt;D面外壳下为电池、各类接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="964" y="496" width="60" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-311" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;D面左侧功能区，从上到下依次为：一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、音量加减按键、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="144" y="413.75" width="78" height="167.5" as="geometry" />
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-311" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;D面左侧功能区，从上到下依次为：左扬声器、一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、音量加减按键、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
+          <mxGeometry x="144" y="389" width="78" height="192.25" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-313" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" parent="1" vertex="1">
           <mxGeometry x="690" y="257" width="60" height="142" as="geometry" />
