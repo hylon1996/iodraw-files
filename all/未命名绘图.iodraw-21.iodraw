@@ -818,7 +818,7 @@
           <mxGeometry x="146" y="215" width="58" height="51" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-308" value="&lt;font color=&quot;#ffffff&quot;&gt;一体机状态下的电源接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="360" width="58" height="51" as="geometry" />
+          <mxGeometry x="970" y="180" width="58" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
