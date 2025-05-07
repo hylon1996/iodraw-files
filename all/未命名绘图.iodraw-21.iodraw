@@ -22,6 +22,9 @@
             <mxPoint x="720" y="399.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#737373;strokeColor=#FFFFFF;arcSize=2;gradientColor=#949494;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="850" y="380" width="260" height="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
