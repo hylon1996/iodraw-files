@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#737373;strokeColor=#FFFFFF;arcSize=2;gradientColor=#949494;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="679" y="240" width="260" height="343" as="geometry" />
+          <mxGeometry x="679" y="243" width="260" height="340" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -809,7 +809,7 @@
           <mxGeometry x="970" y="212.5" width="54" height="51" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-309" value="&lt;font color=&quot;#ffffff&quot;&gt;散热进风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="510" y="220" width="69" height="30" as="geometry" />
+          <mxGeometry x="484" y="213" width="206" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
