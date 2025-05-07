@@ -736,6 +736,9 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-288" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="319" y="220" width="96.5" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-289" value="&lt;font color=&quot;#ffffff&quot;&gt;散热出风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="332.75" y="190" width="69" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
