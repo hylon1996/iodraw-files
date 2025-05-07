@@ -4,26 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-307" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="486" y="583" as="sourcePoint" />
-            <mxPoint x="526" y="606" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="486" y="606" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-312" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="222" y="248" width="12" height="163" as="geometry" />
-        </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-305" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="685" y="569" as="sourcePoint" />
-            <mxPoint x="660" y="607" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="685" y="607" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-295" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="234" width="125.5" height="10" as="geometry" />
@@ -799,11 +781,8 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-304" value="&lt;font color=&quot;#ffffff&quot;&gt;D面外壳下为电池、各类接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="964" y="496" width="60" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-308" value="&lt;font color=&quot;#ffffff&quot;&gt;一体机状态下的电源接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="605" y="592" width="54" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-311" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;C面左侧按键区，从上到下依次为：一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、音量加减按键、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="144" y="244.25" width="78" height="167.5" as="geometry" />
+          <mxGeometry x="144" y="413.75" width="78" height="167.5" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-313" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" parent="1" vertex="1">
           <mxGeometry x="690" y="257" width="60" height="142" as="geometry" />
