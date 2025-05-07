@@ -724,7 +724,7 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-275" value="&lt;font color=&quot;#ffffff&quot;&gt;D面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="344.5" y="478" width="39" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-277" value="&lt;font color=&quot;#ffffff&quot;&gt;D面右侧接口区，从上到下依次为：一个可更换功能的模块（默认为一个储存卡插槽）、另一个固定的&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;储存卡插槽以及一个备用的USB接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-277" value="&lt;font color=&quot;#ffffff&quot;&gt;D面右侧功能区，从上到下依次为：右扬声器、一个可更换功能的模块（默认为一个储存卡插槽）、另一个固定的&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;储存卡插槽以及一个备用的USB接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="506" y="408" width="83" height="179" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-278" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" parent="1" vertex="1">
@@ -779,7 +779,7 @@
           <mxGeometry x="964" y="496" width="60" height="52" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-311" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;D面左侧功能区，从上到下依次为：左扬声器、一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、音量加减按键、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="144" y="389" width="78" height="192.25" as="geometry" />
+          <mxGeometry x="144" y="398.75" width="78" height="188.25" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-313" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" parent="1" vertex="1">
           <mxGeometry x="690" y="257" width="60" height="142" as="geometry" />
