@@ -752,10 +752,7 @@
           <mxGeometry x="222" y="415.5" width="12" height="163" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-279" value="&lt;font color=&quot;#ffffff&quot;&gt;D面底侧接口区，从左到右依次为：电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、网线口、双USB接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Teyp-C接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="215" y="653" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-281" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="281.91999999999996" y="593" width="54.16" height="30" as="geometry" />
+          <mxGeometry x="200" y="592" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-287" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="835.84" y="593" width="54.16" height="30" as="geometry" />
@@ -801,9 +798,6 @@
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-304" value="&lt;font color=&quot;#ffffff&quot;&gt;D面外壳下为电池、各类接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="964" y="496" width="60" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-306" value="&lt;font color=&quot;#ffffff&quot;&gt;一体机状态下的电源接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="527" y="593" width="58" height="51" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-308" value="&lt;font color=&quot;#ffffff&quot;&gt;一体机状态下的电源接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="605" y="592" width="54" height="51" as="geometry" />
