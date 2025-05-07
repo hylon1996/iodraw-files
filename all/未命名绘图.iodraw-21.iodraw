@@ -700,7 +700,7 @@
             <mxPoint x="719" y="450.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-273" value="&lt;font color=&quot;#ffffff&quot;&gt;散热进风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-273" value="&lt;font color=&quot;#ffffff&quot;&gt;D面支架&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="650" y="435" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
