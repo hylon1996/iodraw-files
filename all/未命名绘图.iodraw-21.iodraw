@@ -772,7 +772,7 @@
             <mxPoint x="507" y="347.99998779296874" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-244" value="&lt;font color=&quot;#ffffff&quot;&gt;CD面共用的一块3：4比例的Oled折叠显示屏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="sOoOGCjRmTWEqYjd8ixB-244" value="&lt;font color=&quot;#ffffff&quot;&gt;BC面共用的一块3：4比例的Oled折叠显示屏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="506" y="314.99998779296874" width="70" height="63" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-245" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
