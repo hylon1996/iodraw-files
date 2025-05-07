@@ -793,7 +793,7 @@
             <mxPoint x="963.75" y="521.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-304" value="&lt;font color=&quot;#ffffff&quot;&gt;A面外壳下为主板、散热模组&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-304" value="&lt;font color=&quot;#ffffff&quot;&gt;D面外壳下为电池、各类接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="964" y="496" width="60" height="52" as="geometry" />
         </mxCell>
       </root>
