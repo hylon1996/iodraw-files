@@ -809,7 +809,7 @@
           <mxGeometry x="602" y="581.9999877929688" width="54" height="51" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-254" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;C面左侧按键区，从上到下依次为：一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、音量加减按键、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="141" y="234.24998779296874" width="78" height="167.5" as="geometry" />
+          <mxGeometry x="68" y="75.49998779296874" width="78" height="167.5" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-255" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
           <mxGeometry x="687" y="246.99998779296874" width="60" height="142" as="geometry" />
