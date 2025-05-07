@@ -805,7 +805,7 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-308" value="&lt;font color=&quot;#ffffff&quot;&gt;一体机状态下的电源接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="593" y="213" width="54" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="nJoXNBBgE83BtL5QZMcI-311" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;一体机模式开关按键、大屏/双屏模式切换滑动开关、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-311" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;C面左侧按键区，从上到下依次为：一体机模式开关按键、大屏/双屏模式切换滑动开关、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="142" y="232.5" width="78" height="137.5" as="geometry" />
         </mxCell>
       </root>
