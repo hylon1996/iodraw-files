@@ -713,7 +713,7 @@
           <mxGeometry x="415.5" y="465" width="39" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-277" value="&lt;font color=&quot;#ffffff&quot;&gt;D面右侧接口区，从上到下依次为：右扬声器、网线口、USB口、3.5mm耳机接口、麦克风、以及一个储存卡的插槽&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="577" y="400" width="83" height="165" as="geometry" />
+          <mxGeometry x="577" y="414" width="83" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
