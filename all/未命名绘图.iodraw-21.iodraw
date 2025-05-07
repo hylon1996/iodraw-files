@@ -709,6 +709,9 @@
         <mxCell id="nJoXNBBgE83BtL5QZMcI-275" value="&lt;font color=&quot;#ffffff&quot;&gt;D面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="415.5" y="465" width="39" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-276" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=west;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="400" width="30" height="133" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
