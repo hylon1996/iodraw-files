@@ -705,7 +705,7 @@
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-266" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="702" y="373" as="sourcePoint" />
+            <mxPoint x="685" y="373" as="sourcePoint" />
             <mxPoint x="649" y="373.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -810,6 +810,9 @@
         </mxCell>
         <mxCell id="nJoXNBBgE83BtL5QZMcI-311" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;C面左侧按键区，从上到下依次为：一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、音量加减按键、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="144" y="244.25" width="78" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-313" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="339" width="38" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
