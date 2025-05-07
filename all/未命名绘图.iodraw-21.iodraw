@@ -682,6 +682,9 @@
             <mxPoint x="720" y="510.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nJoXNBBgE83BtL5QZMcI-269" value="&lt;font color=&quot;#ffffff&quot;&gt;A面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="680" y="494" width="39" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
