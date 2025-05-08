@@ -808,6 +808,11 @@
             <mxPoint x="656" y="266.7899877929687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sOoOGCjRmTWEqYjd8ixB-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sOoOGCjRmTWEqYjd8ixB-259">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="578.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-259" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口、麦克风&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="590" y="555" width="58" height="46" as="geometry" />
         </mxCell>
