@@ -676,9 +676,6 @@
         <mxCell id="r1e4Bw8j7zEWOW04i_um-233" value="&lt;font color=&quot;#ffffff&quot;&gt;D面支架（图示支架右边为转轴，左边为开合处）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="961" y="398" width="62" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-240" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="832.8400000000001" y="583" width="54.16" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-245" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="703" y="194" width="69" height="30" as="geometry" />
         </mxCell>
