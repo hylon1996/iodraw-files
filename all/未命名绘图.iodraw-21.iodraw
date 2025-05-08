@@ -805,9 +805,6 @@
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-252" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="523" y="582" width="58" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-253" value="&lt;font color=&quot;#ffffff&quot;&gt;一体机状态下的电源接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="602" y="581.9999877929688" width="54" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-254" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;C面左侧按键区，从上到下依次为：一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、音量加减按键、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="141" y="405.49998779296874" width="78" height="167.5" as="geometry" />
         </mxCell>
@@ -822,6 +819,9 @@
             <mxPoint x="704" y="266.3099877929687" as="sourcePoint" />
             <mxPoint x="656" y="266.7899877929687" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sOoOGCjRmTWEqYjd8ixB-258" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="599" y="583" width="58" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
