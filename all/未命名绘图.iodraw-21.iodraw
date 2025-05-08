@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="FvolwMZqNKfO0q4uFFg9">
-    <mxGraphModel dx="875" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="355" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-8" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="688" y="572.9999877929688" width="99" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-9" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=west;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="491" y="402.99998779296874" width="12" height="163" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-10" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="377" y="222.99998779296874" width="102" height="10" as="geometry" />
