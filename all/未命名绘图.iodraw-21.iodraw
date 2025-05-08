@@ -668,7 +668,7 @@
           <mxGeometry x="924" y="238" width="6" height="6" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-222" value="&lt;font color=&quot;#ffffff&quot;&gt;散热出风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="150" y="304.5" width="69" height="30" as="geometry" />
+          <mxGeometry x="150" y="292" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-224" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -792,6 +792,9 @@
             <mxPoint x="704" y="293.30999999999995" as="sourcePoint" />
             <mxPoint x="656" y="293.78999999999996" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-258" value="&lt;font color=&quot;#ffffff&quot;&gt;C面底侧接口区，从左到右依次为：电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、网线口、双USB接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Teyp-C接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="172" y="222" width="202" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
