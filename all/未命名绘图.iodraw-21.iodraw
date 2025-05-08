@@ -751,7 +751,7 @@
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-237" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219" y="405.49998779296874" width="12" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-238" value="&lt;font color=&quot;#ffffff&quot;&gt;C面左侧接口区，从上到下依次为：电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、网线口、双USB接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Teyp-C接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="sOoOGCjRmTWEqYjd8ixB-238" value="&lt;font color=&quot;#ffffff&quot;&gt;C面左侧接口区，从上到下依次为：电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、网线口、双USB接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Teyp-C接口、&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="144.5" y="59.99998779296874" width="80" height="149.85" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-239" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
@@ -809,7 +809,7 @@
           <mxGeometry x="602" y="581.9999877929688" width="54" height="51" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-254" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;C面左侧按键区，从上到下依次为：一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、音量加减按键、各类指示灯、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="267" y="56.49998779296874" width="78" height="167.5" as="geometry" />
+          <mxGeometry x="141" y="405.49998779296874" width="78" height="167.5" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-255" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
           <mxGeometry x="687" y="246.99998779296874" width="60" height="142" as="geometry" />
