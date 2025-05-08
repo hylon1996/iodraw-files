@@ -696,8 +696,8 @@
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-226" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="891.5" y="287.2399877929688" as="sourcePoint" />
-            <mxPoint x="926.5" y="286.7599877929688" as="targetPoint" />
+            <mxPoint x="893.5" y="287.2399877929688" as="sourcePoint" />
+            <mxPoint x="928.5" y="286.7599877929688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-227" value="&lt;font color=&quot;#ffffff&quot;&gt;A面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
@@ -774,12 +774,6 @@
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-247" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="670.5" y="616.9999877929688" width="69" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-248" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="901.5" y="372.47998779296876" as="sourcePoint" />
-            <mxPoint x="928.5" y="371.99998779296874" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-249" value="&lt;font color=&quot;#ffffff&quot;&gt;A面外壳下为主板、散热模组&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="928.5" y="340.49998779296874" width="60" height="52" as="geometry" />
