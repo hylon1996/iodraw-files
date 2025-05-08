@@ -4,47 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-2" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="219" y="238" width="12" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-5" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="573" width="122" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-6" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="223" width="122" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-7" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="377" y="573" width="102" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-8" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="688" y="573" width="99" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-9" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=west;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="491" y="403" width="12" height="163" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-10" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="377" y="223" width="102" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-11" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="688" y="224" width="99" height="9" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#737373;strokeColor=#FFFFFF;arcSize=2;gradientColor=#949494;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="231" y="233" width="260" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-13" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="231" y="402.65999999999997" as="sourcePoint" />
-            <mxPoint x="491" y="402.65999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;aspect=fixed;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="241" y="243" width="240" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-15" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241" y="402.6600000000001" as="sourcePoint" />
-            <mxPoint x="481" y="402.6600000000001" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#737373;strokeColor=#FFFFFF;arcSize=2;gradientColor=#949494;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="676" y="233" width="260" height="340" as="geometry" />
@@ -667,9 +631,6 @@
         <mxCell id="r1e4Bw8j7zEWOW04i_um-221" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;strokeColor=#FFFFFF;fillColor=none;strokeWidth=0.3;" vertex="1" parent="1">
           <mxGeometry x="924" y="238" width="6" height="6" as="geometry" />
         </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-222" value="&lt;font color=&quot;#ffffff&quot;&gt;散热出风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="150" y="292" width="69" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-224" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="909" y="288.24" as="sourcePoint" />
@@ -715,38 +676,8 @@
         <mxCell id="r1e4Bw8j7zEWOW04i_um-233" value="&lt;font color=&quot;#ffffff&quot;&gt;D面支架（图示支架右边为转轴，左边为开合处）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="961" y="398" width="62" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-234" value="&lt;font color=&quot;#ffffff&quot;&gt;B面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="341.5" y="308" width="39" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-235" value="&lt;font color=&quot;#ffffff&quot;&gt;C面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="341.5" y="468" width="39" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-236" value="&lt;font color=&quot;#ffffff&quot;&gt;D面右侧接口区，从上到下依次为：右侧扬声器、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;储存卡插槽以及一个备用的Teyp-C接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="503" y="414" width="70" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-237" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="219" y="405.5" width="12" height="163" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-238" value="&lt;font color=&quot;#ffffff&quot;&gt;C面底侧接口区，从左到右依次为：电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、网线口、双USB接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Teyp-C接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="216" y="583" width="175" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-240" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="832.8400000000001" y="583" width="54.16" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-241" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="393.5" y="193" width="69" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-242" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="393.5" y="583" width="69" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-243" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="348.48" as="sourcePoint" />
-            <mxPoint x="507" y="348" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-244" value="&lt;font color=&quot;#ffffff&quot;&gt;BC面共用的一块3：4比例的Oled折叠显示屏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="506" y="290" width="59" height="88" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-245" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="703" y="194" width="69" height="30" as="geometry" />
@@ -775,9 +706,6 @@
         <mxCell id="r1e4Bw8j7zEWOW04i_um-251" value="&lt;font color=&quot;#ffffff&quot;&gt;D面外壳下为电池、各类接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="961" y="486" width="60" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-254" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;C面左侧按键区，从上到下依次为：左侧扬声器、一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="141" y="410.25" width="78" height="154.5" as="geometry" />
-        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-255" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
           <mxGeometry x="687" y="247" width="60" height="142" as="geometry" />
         </mxCell>
@@ -790,8 +718,83 @@
             <mxPoint x="656" y="293.78999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-258" value="&lt;font color=&quot;#ffffff&quot;&gt;B面顶部按键区，从左到右依次为：音量加减按键、各类指示灯&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="213" y="190" width="173" height="34" as="geometry" />
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-259" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="141" y="190" width="432" height="451" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-2" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="78" y="48" width="12" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-5" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="104" y="383" width="122" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-6" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="104" y="33" width="122" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-7" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="236" y="383" width="102" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-9" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=west;fillColor=none;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="350" y="213" width="12" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-10" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="236" y="33" width="102" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#737373;strokeColor=#FFFFFF;arcSize=2;gradientColor=#949494;gradientDirection=south;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="90" y="43" width="260" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-13" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.5;" edge="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="212.65999999999997" as="sourcePoint" />
+            <mxPoint x="350" y="212.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;aspect=fixed;strokeWidth=0.5;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="100" y="53" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-15" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.1;" edge="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="212.66000000000008" as="sourcePoint" />
+            <mxPoint x="340" y="212.66000000000008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-222" value="&lt;font color=&quot;#ffffff&quot;&gt;散热出风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="9" y="102" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-234" value="&lt;font color=&quot;#ffffff&quot;&gt;B面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="200.5" y="118" width="39" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-235" value="&lt;font color=&quot;#ffffff&quot;&gt;C面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="200.5" y="278" width="39" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-236" value="&lt;font color=&quot;#ffffff&quot;&gt;D面右侧接口区，从上到下依次为：右侧扬声器、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;储存卡插槽以及一个备用的Teyp-C接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="362" y="224" width="70" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-237" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="78" y="215.5" width="12" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-238" value="&lt;font color=&quot;#ffffff&quot;&gt;C面底侧接口区，从左到右依次为：电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、网线口、双USB接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Teyp-C接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="75" y="393" width="175" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-241" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="252.5" y="3" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-242" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="252.5" y="393" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-243" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="158.48000000000002" as="sourcePoint" />
+            <mxPoint x="366" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-244" value="&lt;font color=&quot;#ffffff&quot;&gt;BC面共用的一块3：4比例的Oled折叠显示屏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="365" y="112" width="59" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-254" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;C面左侧按键区，从上到下依次为：左侧扬声器、一体机模式开关按键、管理大屏/双屏模式切换的滑动开关、开关机指纹二合一按键&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry y="220.25" width="78" height="154.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-258" value="&lt;font color=&quot;#ffffff&quot;&gt;B面顶部按键区，从左到右依次为：音量加减按键、各类指示灯&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="r1e4Bw8j7zEWOW04i_um-259">
+          <mxGeometry x="72" width="173" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
