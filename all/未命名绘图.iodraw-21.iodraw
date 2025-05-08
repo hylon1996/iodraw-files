@@ -732,8 +732,8 @@
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-232" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="909" y="434.47998779296876" as="sourcePoint" />
-            <mxPoint x="961" y="433.99998779296874" as="targetPoint" />
+            <mxPoint x="909" y="443.05998779296874" as="sourcePoint" />
+            <mxPoint x="961" y="442.5799877929687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-233" value="&lt;font color=&quot;#ffffff&quot;&gt;D面支架（图示支架右边为转轴，左边为开合处）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
@@ -752,7 +752,7 @@
           <mxGeometry x="219" y="405.49998779296874" width="12" height="163" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-238" value="&lt;font color=&quot;#ffffff&quot;&gt;电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、网线口、双USB接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Teyp-C接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="960" y="306.5" width="70" height="87" as="geometry" />
+          <mxGeometry x="960" y="311" width="70" height="87" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-239" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="278.91999999999996" y="582.9999877929688" width="54.16" height="30" as="geometry" />
