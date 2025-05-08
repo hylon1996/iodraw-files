@@ -7,7 +7,7 @@
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-287" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="293.5" y="223" width="133.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
+        <mxCell id="sOoOGCjRmTWEqYjd8ixB-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sOoOGCjRmTWEqYjd8ixB-259">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="538" y="554.9999877929688" as="sourcePoint" />
             <mxPoint x="578" y="577.9999877929688" as="targetPoint" />
