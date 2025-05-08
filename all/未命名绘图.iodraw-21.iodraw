@@ -671,7 +671,7 @@
           <mxGeometry x="924" y="238" width="6" height="6" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-222" value="&lt;font color=&quot;#ffffff&quot;&gt;散热出风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="271.5" y="193" width="69" height="30" as="geometry" />
+          <mxGeometry x="150" y="304.5" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-223" value="&lt;font color=&quot;#ffffff&quot;&gt;散热出风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="825.25" y="194" width="69" height="30" as="geometry" />
