@@ -4,26 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="483" y="573" as="sourcePoint" />
-            <mxPoint x="523" y="596" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="483" y="596" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-2" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219" y="238" width="12" height="163" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="682" y="559" as="sourcePoint" />
-            <mxPoint x="657" y="597" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="682" y="597" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-4" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="797" y="224" width="125.5" height="10" as="geometry" />
@@ -772,7 +754,7 @@
             <mxPoint x="507" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-244" value="&lt;font color=&quot;#ffffff&quot;&gt;CD面共用的一块3：4比例的Oled折叠显示屏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-244" value="&lt;font color=&quot;#ffffff&quot;&gt;BC面共用的一块3：4比例的Oled折叠显示屏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="506" y="315" width="70" height="63" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-245" value="&lt;font color=&quot;#ffffff&quot;&gt;横屏握持区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
