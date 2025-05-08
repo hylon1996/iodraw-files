@@ -5,10 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r1e4Bw8j7zEWOW04i_um-2" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="219" y="238" width="12" height="163" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-4" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="797" y="224" width="125.5" height="10" as="geometry" />
+          <mxGeometry x="219" y="238" width="12" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-5" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="573" width="122" height="10" as="geometry" />
