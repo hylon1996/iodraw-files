@@ -31,9 +31,6 @@
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-5" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="572.9999877929688" width="122" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-6" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="222.99998779296874" width="122" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-7" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="377" y="572.9999877929688" width="102" height="10" as="geometry" />
         </mxCell>
