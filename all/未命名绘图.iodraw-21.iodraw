@@ -759,8 +759,8 @@
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-243" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="509" y="348.47998779296876" as="sourcePoint" />
-            <mxPoint x="561" y="347.99998779296874" as="targetPoint" />
+            <mxPoint x="510" y="477.47998779296876" as="sourcePoint" />
+            <mxPoint x="562" y="476.99998779296874" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-244" value="&lt;font color=&quot;#ffffff&quot;&gt;BC面共用的一块3：4比例的Oled折叠显示屏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
@@ -809,7 +809,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-259" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口、麦克风&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="598" y="555" width="58" height="46" as="geometry" />
+          <mxGeometry x="590" y="555" width="58" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-265" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="904.9951851851853" y="381.2643902439024" width="12.293333333333333" height="2.731707317073171" as="geometry" />
