@@ -784,13 +784,10 @@
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-255" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;" vertex="1" parent="1">
           <mxGeometry x="654.5" y="280.99998779296874" width="60" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-256" value="&lt;font color=&quot;#ffffff&quot;&gt;A面支架（图示支架顶部为转轴，底部为开合处）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="562" y="288.99998779296874" width="61.5" height="77" as="geometry" />
-        </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-257" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="671.5" y="300.3099877929687" as="sourcePoint" />
-            <mxPoint x="623.5" y="300.7899877929687" as="targetPoint" />
+            <mxPoint x="670.5" y="325.4299877929687" as="sourcePoint" />
+            <mxPoint x="622.5" y="325.9099877929687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-259" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口、麦克风&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
@@ -828,6 +825,9 @@
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-231" value="&lt;font color=&quot;#ffffff&quot;&gt;脚垫&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="875" y="227.99998779296874" width="39" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sOoOGCjRmTWEqYjd8ixB-256" value="&lt;font color=&quot;#ffffff&quot;&gt;A面支架（图示支架顶部为转轴，底部为开合处）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="562" y="288.99998779296874" width="61.5" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
