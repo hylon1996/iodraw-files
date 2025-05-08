@@ -740,7 +740,7 @@
           <mxGeometry x="341.5" y="467.99998779296874" width="39" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-236" value="&lt;font color=&quot;#ffffff&quot;&gt;C面左侧功能区：两个TypeC接口、一个储存卡插槽、一个SIM卡插槽，以及复位键（需要用卡针复位）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="136" y="433" width="83" height="105" as="geometry" />
+          <mxGeometry x="147" y="414" width="72" height="144" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-237" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219" y="405.49998779296874" width="12" height="163" as="geometry" />
