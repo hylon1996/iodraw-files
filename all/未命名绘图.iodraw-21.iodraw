@@ -814,8 +814,8 @@
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-259" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口、麦克风&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="598" y="555" width="58" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-260" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="518" y="517" width="120" height="60" as="geometry" />
+        <mxCell id="sOoOGCjRmTWEqYjd8ixB-260" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="514" y="671" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
