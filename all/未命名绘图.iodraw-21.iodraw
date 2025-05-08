@@ -730,9 +730,6 @@
         <mxCell id="r1e4Bw8j7zEWOW04i_um-238" value="&lt;font color=&quot;#ffffff&quot;&gt;C面底侧接口区，从左到右依次为：电源接口、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;HDMI视频输出口&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;、网线口、双USB接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Teyp-C接口、&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;3.5mm耳机接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="189" y="583" width="202" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-239" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="45.99999999999997" y="467" width="54.16" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-240" value="&lt;font color=&quot;#ffffff&quot;&gt;扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="832.8400000000001" y="583" width="54.16" height="30" as="geometry" />
         </mxCell>
