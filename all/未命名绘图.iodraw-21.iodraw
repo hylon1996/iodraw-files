@@ -782,7 +782,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-249" value="&lt;font color=&quot;#ffffff&quot;&gt;A面外壳下为主板、散热模组&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="563.5" y="350.99998779296874" width="60" height="52" as="geometry" />
+          <mxGeometry x="928.5" y="340.49998779296874" width="60" height="52" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-250" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
