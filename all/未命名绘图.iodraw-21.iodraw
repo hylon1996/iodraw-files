@@ -736,7 +736,7 @@
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-235" value="&lt;font color=&quot;#ffffff&quot;&gt;C面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="341.5" y="467.99998779296874" width="39" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-236" value="&lt;font color=&quot;#ffffff&quot;&gt;两个储存卡插槽、一个SIM卡插槽，以及复位键（需要用卡针复位）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="sOoOGCjRmTWEqYjd8ixB-236" value="&lt;font color=&quot;#ffffff&quot;&gt;两个储存卡插槽、一个SIM卡插槽，一个备用Type-C接口，以及复位键（需要用卡针复位）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="503" y="435" width="83" height="92" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-237" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
