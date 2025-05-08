@@ -822,8 +822,8 @@
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-290" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="894.5" y="247.24" as="sourcePoint" />
-            <mxPoint x="894.5" y="276.76" as="targetPoint" />
+            <mxPoint x="894.5" y="245" as="sourcePoint" />
+            <mxPoint x="894.5" y="274.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-231" value="&lt;font color=&quot;#ffffff&quot;&gt;脚垫&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
