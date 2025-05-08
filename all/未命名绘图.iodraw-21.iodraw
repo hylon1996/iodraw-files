@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r1e4Bw8j7zEWOW04i_um-260" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="538" as="sourcePoint" />
+            <mxPoint x="645" y="578" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="685" y="578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-8" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="688" y="573" width="99" height="10" as="geometry" />
         </mxCell>
@@ -786,15 +795,6 @@
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-258" value="&lt;font color=&quot;#ffffff&quot;&gt;B面顶部按键区，从左到右依次为：音量加减按键、各类指示灯&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;container=0;" vertex="1" parent="1">
           <mxGeometry x="233" y="190" width="173" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="r1e4Bw8j7zEWOW04i_um-260" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="676" y="573" as="sourcePoint" />
-            <mxPoint x="636" y="613" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="676" y="613" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
