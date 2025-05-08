@@ -722,7 +722,7 @@
           <mxGeometry x="341.5" y="468" width="39" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-236" value="&lt;font color=&quot;#ffffff&quot;&gt;D面右侧接口区，从上到下依次为：右侧扬声器、&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;储存卡插槽以及一个备用的Teyp-C接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="503" y="398" width="83" height="179" as="geometry" />
+          <mxGeometry x="503" y="398" width="70" height="132" as="geometry" />
         </mxCell>
         <mxCell id="r1e4Bw8j7zEWOW04i_um-237" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=east;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219" y="405.5" width="12" height="163" as="geometry" />
