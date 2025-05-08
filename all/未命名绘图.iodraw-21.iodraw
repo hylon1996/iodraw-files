@@ -25,9 +25,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-4" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="797" y="223.99998779296874" width="125.5" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-5" value="" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#EA6B66;direction=north;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="572.9999877929688" width="122" height="10" as="geometry" />
         </mxCell>
@@ -687,9 +684,6 @@
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-222" value="&lt;font color=&quot;#ffffff&quot;&gt;散热出风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="150" y="279.99998779296874" width="69" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sOoOGCjRmTWEqYjd8ixB-223" value="&lt;font color=&quot;#ffffff&quot;&gt;散热出风口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="825.25" y="193.99998779296874" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sOoOGCjRmTWEqYjd8ixB-224" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
