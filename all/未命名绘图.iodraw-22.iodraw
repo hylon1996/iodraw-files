@@ -256,13 +256,13 @@
             <mxPoint x="560" y="221.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ztGMZWR9fXTvHfwzflh-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.1;" edge="1" parent="1">
+        <mxCell id="4ztGMZWR9fXTvHfwzflh-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="559.87" y="383" as="sourcePoint" />
             <mxPoint x="559.87" y="220.953216374269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6A8B0Eveqxlkr9wn9L9_-29" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.1;" parent="1" edge="1">
+        <mxCell id="6A8B0Eveqxlkr9wn9L9_-29" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="383" as="sourcePoint" />
             <mxPoint x="320" y="220.953216374269" as="targetPoint" />
