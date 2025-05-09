@@ -256,6 +256,9 @@
         <mxCell id="CC8_3jo1ok2K7Nv_2dUD-81" value="&lt;font color=&quot;#ffffff&quot;&gt;底部扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="554" y="515.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CC8_3jo1ok2K7Nv_2dUD-82" value="&lt;font color=&quot;#ffffff&quot;&gt;右扬声器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="830" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
