@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="iOT26pqjMltVEh9GC4P1">
-    <mxGraphModel dx="420" dy="248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,8 +469,8 @@
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.2;container=0;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="451.1600000000001" y="503.41999999999996" width="266.67" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="mIoFH8lE_BkWUqSYtAvW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.2;container=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="508" y="793" width="266.67" height="150" as="geometry" />
+        <mxCell id="mIoFH8lE_BkWUqSYtAvW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;container=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="465.53" y="767" width="266.67" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
