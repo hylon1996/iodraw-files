@@ -36,8 +36,8 @@
         <mxCell id="ksFHUYHCKNRlmBrHKQMC-21" value="" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ksFHUYHCKNRlmBrHKQMC-22" value="" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-280" width="160" height="120" as="geometry" />
+        <mxCell id="ksFHUYHCKNRlmBrHKQMC-22" value="" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-100" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
