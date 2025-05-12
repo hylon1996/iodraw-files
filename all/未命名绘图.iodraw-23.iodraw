@@ -233,7 +233,7 @@
           <mxGeometry x="465" y="492.5" width="3" height="3" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.2;container=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="467.97" y="170" width="268.75" height="322.5" as="geometry" />
+          <mxGeometry x="467.97" y="170" width="268.585" height="322.3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
