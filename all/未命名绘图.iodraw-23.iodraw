@@ -19,9 +19,6 @@
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-16" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=26;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=0.5;gradientColor=none;gradientDirection=north;container=0;" parent="1" vertex="1">
           <mxGeometry x="756" y="794.45" width="48" height="162.05" as="geometry" />
         </mxCell>
-        <mxCell id="1xrNeHJkSuA0mxeP0SWw-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=0.5;gradientColor=none;gradientDirection=north;container=0;" parent="1" vertex="1">
-          <mxGeometry x="244.25" y="540" width="10.75" height="7" as="geometry" />
-        </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-18" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;strokeColor=#FFFFFF;fillColor=#9933FF;strokeWidth=0.5;gradientColor=#FF3333;gradientDirection=east;container=0;" parent="1" vertex="1">
           <mxGeometry x="952" y="811.45" width="176" height="162.05" as="geometry" />
         </mxCell>
@@ -270,6 +267,9 @@
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-57" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;ST&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=3;" vertex="1" parent="1">
           <mxGeometry x="421.84999999999997" y="718.3" width="10" height="4.26" as="geometry" />
+        </mxCell>
+        <mxCell id="1xrNeHJkSuA0mxeP0SWw-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=0.5;gradientColor=none;gradientDirection=north;container=0;" parent="1" vertex="1">
+          <mxGeometry x="254.25" y="592" width="10.75" height="7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
