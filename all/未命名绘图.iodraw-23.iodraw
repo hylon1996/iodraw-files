@@ -240,6 +240,9 @@
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#404040;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;aspect=fixed;gradientColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="41.00000000000006" y="374.91999999999996" width="266.67" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="n6309GCyoZieVI032MvZ-3" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="194" width="142" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
