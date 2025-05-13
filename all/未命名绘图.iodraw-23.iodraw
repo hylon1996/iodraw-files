@@ -142,9 +142,6 @@
         <mxCell id="Zlr_f6t6OdaAjLu9_pE2-45" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;direction=north;" vertex="1" parent="1">
           <mxGeometry x="1196.87041015625" y="618.6867959872158" width="5.35" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="Zlr_f6t6OdaAjLu9_pE2-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1197.04541015625" y="637.1067959872158" width="5" height="5" as="geometry" />
-        </mxCell>
         <mxCell id="Zlr_f6t6OdaAjLu9_pE2-47" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=0.1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1505.5454101562498" y="600.6867959872158" as="sourcePoint" />
@@ -270,6 +267,9 @@
         </mxCell>
         <mxCell id="Zlr_f6t6OdaAjLu9_pE2-92" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;strokeColor=none;fillColor=#000000;rotation=-125;" vertex="1" parent="1">
           <mxGeometry x="754" y="469.5" width="62" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlr_f6t6OdaAjLu9_pE2-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.2;container=0;" vertex="1" parent="1">
+          <mxGeometry x="442.99541015625005" y="458.1867959872159" width="5" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
