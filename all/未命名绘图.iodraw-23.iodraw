@@ -200,16 +200,16 @@
           <mxGeometry x="190" y="599" width="307.7" height="145" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-22" value="" style="shape=cross;whiteSpace=wrap;html=1;aspect=fixed;size=0.2981128127105786;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;" parent="1" vertex="1">
-          <mxGeometry x="797.22" y="551.25" width="37.5" height="37.5" as="geometry" />
+          <mxGeometry x="222.75" y="657" width="37.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7A1818;strokeColor=#FFFFFF;strokeWidth=0.3;container=0;" vertex="1" parent="1">
-          <mxGeometry x="703" y="585" width="43" height="43" as="geometry" />
+          <mxGeometry x="561" y="639.53" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#808080;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;" vertex="1" parent="1">
-          <mxGeometry x="710.7765957446808" y="593.3769318447511" width="27.446808510638295" height="27.446808510638295" as="geometry" />
+          <mxGeometry x="568.7765957446808" y="647.906931844751" width="27.446808510638295" height="27.446808510638295" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#404040;strokeColor=#FFFFFF;strokeWidth=0.3;container=0;gradientColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="711.6914893617021" y="594.2929739800095" width="25.61702127659574" height="25.61702127659574" as="geometry" />
+          <mxGeometry x="569.6914893617021" y="648.8229739800095" width="25.61702127659574" height="25.61702127659574" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-29" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=49.60000000000005;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;gradientDirection=east;strokeWidth=0.3;" vertex="1" parent="1">
           <mxGeometry x="205.85" y="578" width="276" height="35" as="geometry" />
