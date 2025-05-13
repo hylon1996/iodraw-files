@@ -232,11 +232,11 @@
             <mxPoint x="452" y="333.39321637426895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n6309GCyoZieVI032MvZ-17" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=43.26825902478453;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="n6309GCyoZieVI032MvZ-17" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=43.26825902478453;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="396.46" y="546" width="280.82" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="n6309GCyoZieVI032MvZ-18" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10.413767847521683;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="563" width="296" height="135" as="geometry" />
+        <mxCell id="n6309GCyoZieVI032MvZ-18" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10.413767847521683;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="390" y="561" width="296" height="152" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#404040;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;gradientColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="461.87" y="557" width="150" height="150" as="geometry" />
