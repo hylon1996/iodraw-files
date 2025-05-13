@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n6309GCyoZieVI032MvZ-4" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9933FF;strokeColor=#FFFFFF;rounded=1;arcSize=50;strokeWidth=0.5;gradientColor=#FF3333;gradientDirection=east;size=20.862060546874943;" vertex="1" parent="1">
-          <mxGeometry x="431.2" y="163" width="239.8" height="153" as="geometry" />
+          <mxGeometry x="430.2" y="132" width="239.8" height="153" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-14" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=26;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=0.5;gradientColor=none;gradientDirection=north;container=0;" parent="1" vertex="1">
           <mxGeometry x="742.4399999999999" y="332.5" width="48" height="162.05" as="geometry" />
@@ -18,14 +18,6 @@
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=0.5;gradientColor=none;gradientDirection=north;container=0;" parent="1" vertex="1">
           <mxGeometry x="412.25" y="332" width="16" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="n6309GCyoZieVI032MvZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1xrNeHJkSuA0mxeP0SWw-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="467.7241379310344" y="312.9999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n6309GCyoZieVI032MvZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1xrNeHJkSuA0mxeP0SWw-18" target="n6309GCyoZieVI032MvZ-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-18" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;strokeColor=#FFFFFF;fillColor=#9933FF;strokeWidth=0.5;gradientColor=#FF3333;gradientDirection=east;container=0;" parent="1" vertex="1">
           <mxGeometry x="376" y="333.45" width="417" height="162.05" as="geometry" />
