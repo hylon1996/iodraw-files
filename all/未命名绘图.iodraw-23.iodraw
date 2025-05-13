@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zlr_f6t6OdaAjLu9_pE2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;rotation=33.8;arcSize=50;flipH=0;flipV=0;direction=south;" parent="1" vertex="1">
+        <mxCell id="Zlr_f6t6OdaAjLu9_pE2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;rotation=33.8;arcSize=50;flipH=0;flipV=0;direction=south;" parent="1" vertex="1">
           <mxGeometry x="675.9852477838137" y="333.2764395697808" width="37.57" height="6.58" as="geometry" />
         </mxCell>
-        <mxCell id="Zlr_f6t6OdaAjLu9_pE2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.5;rotation=55;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="Zlr_f6t6OdaAjLu9_pE2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;rotation=55;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="471.04541015625" y="317.9967959872157" width="6.58" height="37.57" as="geometry" />
         </mxCell>
         <mxCell id="Zlr_f6t6OdaAjLu9_pE2-48" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=22.620043945312432;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;gradientDirection=east;strokeWidth=0.3;" parent="1" vertex="1">
