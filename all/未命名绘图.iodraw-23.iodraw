@@ -233,13 +233,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-17" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=43.26825902478453;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="390.46" y="457" width="280.82" height="27" as="geometry" />
+          <mxGeometry x="390.46" y="457" width="233.54" height="27" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-18" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=32.08001708984375;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="386" y="472" width="292" height="152" as="geometry" />
+          <mxGeometry x="361.23" y="476" width="292" height="152" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#404040;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;gradientColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="457" y="465" width="150" height="150" as="geometry" />
+          <mxGeometry x="459" y="466" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
