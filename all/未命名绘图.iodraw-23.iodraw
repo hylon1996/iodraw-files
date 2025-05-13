@@ -257,7 +257,7 @@
           <mxGeometry x="260.79999999999995" y="650.18" width="5" height="2.44" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1147" y="893" width="8" height="8" as="geometry" />
+          <mxGeometry x="540" y="361" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.3;container=0;" parent="n6309GCyoZieVI032MvZ-48" vertex="1">
           <mxGeometry width="8" height="8" as="geometry" />
