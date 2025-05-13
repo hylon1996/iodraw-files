@@ -239,7 +239,7 @@
           <mxGeometry x="461.87" y="557" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-18" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=43.26825902478453;rounded=1;arcSize=50;fillColor=#9933FF;gradientColor=#FF3333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="633" width="280.82" height="27" as="geometry" />
+          <mxGeometry x="268.09" y="578" width="280.82" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
