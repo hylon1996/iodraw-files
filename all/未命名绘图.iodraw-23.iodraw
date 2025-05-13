@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="iOT26pqjMltVEh9GC4P1">
-    <mxGraphModel dx="169" dy="100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="296" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,31 +233,31 @@
           <mxGeometry x="8.69148936170211" y="9.292973980009492" width="25.61702127659574" height="25.61702127659574" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="532.6799999999998" y="609.06" width="18" height="18" as="geometry" />
+          <mxGeometry x="438.67999999999984" y="601.53" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="516" y="626" width="18" height="18" as="geometry" />
+          <mxGeometry x="422" y="618.47" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="549.8699999999999" y="626" width="18" height="18" as="geometry" />
+          <mxGeometry x="455.8699999999999" y="618.47" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="532.6799999999998" y="643.06" width="18" height="18" as="geometry" />
+          <mxGeometry x="438.67999999999984" y="635.53" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-72" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=10;container=0;" parent="1" vertex="1">
-          <mxGeometry x="553.8699999999999" y="630.06" width="10" height="10" as="geometry" />
+          <mxGeometry x="459.8699999999999" y="622.53" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-73" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=10;container=0;" parent="1" vertex="1">
-          <mxGeometry x="536.8699999999999" y="647.06" width="10" height="10" as="geometry" />
+          <mxGeometry x="442.8699999999999" y="639.53" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-74" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=10;container=0;" parent="1" vertex="1">
-          <mxGeometry x="536.6799999999998" y="613.06" width="10" height="10" as="geometry" />
+          <mxGeometry x="442.67999999999984" y="605.53" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-75" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=10;container=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="630.06" width="10" height="10" as="geometry" />
+          <mxGeometry x="426" y="622.53" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.3;container=0;" vertex="1" parent="1">
-          <mxGeometry x="516" y="609" width="52" height="52" as="geometry" />
+          <mxGeometry x="422" y="601.47" width="52" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
