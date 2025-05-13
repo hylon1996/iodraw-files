@@ -260,7 +260,7 @@
           <mxGeometry x="259.83" y="706.16" width="2.33" height="3.1" as="geometry" />
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-54" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="507" y="661" width="8" height="8" as="geometry" />
+          <mxGeometry x="257" y="716" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="1xrNeHJkSuA0mxeP0SWw-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.3;container=0;" parent="n6309GCyoZieVI032MvZ-54" vertex="1">
           <mxGeometry width="8" height="8" as="geometry" />
