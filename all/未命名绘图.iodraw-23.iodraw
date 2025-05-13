@@ -232,9 +232,6 @@
             <mxPoint x="933" y="811.393216374269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1xrNeHJkSuA0mxeP0SWw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#404040;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;gradientColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="422" y="716.5" width="150" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-20" value="" style="group;rounded=0;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="367.34000000000003" y="481" width="279.77" height="180" as="geometry" />
         </mxCell>
@@ -243,6 +240,9 @@
         </mxCell>
         <mxCell id="n6309GCyoZieVI032MvZ-19" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;strokeColor=none;fillColor=#9933FF;gradientColor=#FF3333;" vertex="1" parent="n6309GCyoZieVI032MvZ-20">
           <mxGeometry x="14.499999999999943" width="250.77" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1xrNeHJkSuA0mxeP0SWw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#404040;strokeColor=#FFFFFF;strokeWidth=0.5;container=0;gradientColor=#808080;" parent="n6309GCyoZieVI032MvZ-20" vertex="1">
+          <mxGeometry x="64.88999999999999" y="23" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
