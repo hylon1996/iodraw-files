@@ -271,7 +271,7 @@
         <mxCell id="TAL9vLZJpp_2EeU221GS-142" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=0.3;container=0;" vertex="1" parent="1">
           <mxGeometry x="1064.2227319154053" y="545.9419047619047" width="1.8" height="1.8" as="geometry" />
         </mxCell>
-        <mxCell id="TAL9vLZJpp_2EeU221GS-143" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;strokeColor=none;fillColor=#B3B3B3;rotation=-10;" vertex="1" parent="1">
+        <mxCell id="TAL9vLZJpp_2EeU221GS-143" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;strokeColor=none;fillColor=#000000;rotation=-10;" vertex="1" parent="1">
           <mxGeometry x="811.4473217591553" y="627.2651087746889" width="62" height="87" as="geometry" />
         </mxCell>
         <mxCell id="TAL9vLZJpp_2EeU221GS-144" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;strokeColor=none;fillColor=#000000;rotation=-125;" vertex="1" parent="1">
@@ -292,7 +292,7 @@
         <mxCell id="TAL9vLZJpp_2EeU221GS-149" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.2;direction=west;" vertex="1" parent="1">
           <mxGeometry x="858.2473217591553" y="626.0151087746889" width="1.66" height="2.22" as="geometry" />
         </mxCell>
-        <mxCell id="TAL9vLZJpp_2EeU221GS-150" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.760569043045109;lid=0;direction=south;rotation=-10;strokeColor=none;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="TAL9vLZJpp_2EeU221GS-150" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.760569043045109;lid=0;direction=south;rotation=-10;strokeColor=none;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="807.3473217591554" y="628.4851087746889" width="32" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAL9vLZJpp_2EeU221GS-151" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.760569043045109;lid=0;direction=south;rotation=8.6;strokeColor=none;flipH=1;flipV=0;fillColor=#000000;" vertex="1" parent="1">
