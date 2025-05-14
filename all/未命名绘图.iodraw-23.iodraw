@@ -164,7 +164,7 @@
           <mxGeometry x="715.0018697822981" y="442.00534543666225" width="33" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MzED-QEgbC2IiUvmzpD0-60" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;rounded=1;size=15.914306640624886;arcSize=39;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="483.42" y="485.28" width="211" height="60" as="geometry" />
+          <mxGeometry x="481.44" y="485.28" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
