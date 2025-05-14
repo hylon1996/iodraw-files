@@ -166,7 +166,7 @@
         <mxCell id="MzED-QEgbC2IiUvmzpD0-60" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;rounded=1;size=15.914306640624886;arcSize=39;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="481.44" y="485.28" width="211" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MzED-QEgbC2IiUvmzpD0-63" value="" style="shape=or;whiteSpace=wrap;html=1;direction=south;strokeColor=none;fillColor=#FF61E5;" vertex="1" parent="1">
+        <mxCell id="MzED-QEgbC2IiUvmzpD0-63" value="" style="shape=or;whiteSpace=wrap;html=1;direction=south;strokeColor=none;fillColor=#D154FF;" vertex="1" parent="1">
           <mxGeometry x="475.58" y="488" width="28.42" height="1.28" as="geometry" />
         </mxCell>
       </root>
