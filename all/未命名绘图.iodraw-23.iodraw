@@ -166,8 +166,8 @@
         <mxCell id="MzED-QEgbC2IiUvmzpD0-60" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;rounded=1;size=15.914306640624886;arcSize=39;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="481.44" y="485.28" width="211" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MzED-QEgbC2IiUvmzpD0-61" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.635450356513672;lid=0;direction=south;rotation=-30;strokeColor=none;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="423.7894191624432" y="514.2307621135332" width="33" height="60" as="geometry" />
+        <mxCell id="MzED-QEgbC2IiUvmzpD0-61" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.635450356513672;lid=0;direction=south;rotation=-30;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400.8994191624432" y="483.00076211353314" width="33" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
