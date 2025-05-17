@@ -1894,6 +1894,9 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-797" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1060" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-798" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1060" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
