@@ -2224,6 +2224,9 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-941" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="383.5" y="705" width="18.5" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-942" value="F11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="312" y="691" width="20" height="14.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
