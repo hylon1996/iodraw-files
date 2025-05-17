@@ -917,7 +917,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1850" value="前置摄像头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="318" y="130" width="64" height="34" as="geometry" />
+          <mxGeometry x="318" y="150" width="64" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1851" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+            <mxPoint x="560" y="384" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
