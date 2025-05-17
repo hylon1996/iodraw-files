@@ -1390,7 +1390,7 @@
             <mxPoint x="745" y="454.28999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGzQSh2h5BA81JRafFgC-1309" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="qGzQSh2h5BA81JRafFgC-1309" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="266" y="433.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
