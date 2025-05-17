@@ -2227,15 +2227,6 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-943" value="F12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="327.25" y="690" width="20" height="14.5" as="geometry" />
         </mxCell>
-        <mxCell id="qGzQSh2h5BA81JRafFgC-944" value="DEL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=4;" vertex="1" parent="1">
-          <mxGeometry x="349" y="704.5" width="13.5" height="14.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qGzQSh2h5BA81JRafFgC-945" value="HOME" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=4;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="704.5" width="13.5" height="14.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qGzQSh2h5BA81JRafFgC-946" value="END" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=4;" vertex="1" parent="1">
-          <mxGeometry x="386" y="704.5" width="13.5" height="14.5" as="geometry" />
-        </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-947" value="_&lt;div style=&quot;font-size: 3px;&quot;&gt;&lt;br style=&quot;font-size: 3px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 3px;&quot;&gt;-&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=3;" vertex="1" parent="1">
           <mxGeometry x="313.25" y="704.5" width="13.5" height="14.5" as="geometry" />
         </mxCell>
