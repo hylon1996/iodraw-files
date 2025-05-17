@@ -919,33 +919,6 @@
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1850" value="前置摄像头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="345.5" y="248" width="69" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1853" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;entryX=0.825;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.062;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="ZybLXsTPDPJzVznBQ50U-923" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="552.4680000000001" y="258.00800000000004" as="sourcePoint" />
-            <mxPoint x="472" y="248" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="258" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1855" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;entryX=0.136;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ZybLXsTPDPJzVznBQ50U-926" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="258" as="sourcePoint" />
-            <mxPoint x="672" y="293" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="258" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1857" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="799.86" y="255" as="sourcePoint" />
-            <mxPoint x="799.86" y="321" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1856" value="散热进风口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="760" y="245" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1858" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" parent="1" source="ZybLXsTPDPJzVznBQ50U-1859" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="794" y="564" as="sourcePoint" />
