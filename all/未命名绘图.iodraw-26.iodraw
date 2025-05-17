@@ -928,6 +928,15 @@
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1852" value="3：2或16：10显示屏幕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="521" y="330" width="59" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1853" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="150" as="sourcePoint" />
+            <mxPoint x="442" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
