@@ -950,7 +950,7 @@
           <mxGeometry x="518.5" y="150" width="64" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1856" value="散热进风口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="780" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="730" y="147" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
