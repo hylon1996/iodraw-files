@@ -938,11 +938,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1854" value="散热出风口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="516" y="150" width="64" height="24" as="geometry" />
+          <mxGeometry x="518.5" y="150" width="64" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1855" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;entryX=0.17;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZybLXsTPDPJzVznBQ50U-926">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="160" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="sourcePoint" />
             <mxPoint x="671" y="150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="160" />
