@@ -1769,10 +1769,10 @@
           <mxGeometry x="180.5" y="320" width="313" height="147" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-748" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="227" y="315" width="40" height="10" as="geometry" />
+          <mxGeometry x="227" y="320" width="40" height="5" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-749" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="407" y="315" width="40" height="10" as="geometry" />
+          <mxGeometry x="407" y="320" width="40" height="5" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-930" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;container=0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="80" y="436.07" width="66.5" height="3" as="geometry" />
