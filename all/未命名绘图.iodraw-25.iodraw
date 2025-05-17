@@ -2099,7 +2099,10 @@
           <mxGeometry x="300" y="942" width="20" height="14.5" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-895" value="*&lt;div&gt;8&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1050" width="20" height="14.5" as="geometry" />
+          <mxGeometry x="320" y="942" width="20" height="14.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-896" value="(&lt;div&gt;9&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1040" width="20" height="14.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
