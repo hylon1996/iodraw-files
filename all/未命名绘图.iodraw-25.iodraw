@@ -2036,7 +2036,10 @@
           <mxGeometry x="239" y="976.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-873" value="&lt;font&gt;H&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1050" width="20" height="20" as="geometry" />
+          <mxGeometry x="279" y="976.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-874" value="&lt;font&gt;J&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="299" y="976.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
