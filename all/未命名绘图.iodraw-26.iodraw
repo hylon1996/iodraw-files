@@ -1000,7 +1000,7 @@
             <mxPoint x="794" y="498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1859" value="背部金属支架，同时也是折叠键盘的保护壳" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1859" value="背部金属支架，同时也是折叠键盘折叠状态下的外壳" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="744.5" y="531" width="101" height="52" as="geometry" />
         </mxCell>
       </root>
