@@ -964,6 +964,9 @@
             <mxPoint x="763.49" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1859" value="背面金属支架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="732" y="451" width="64" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
