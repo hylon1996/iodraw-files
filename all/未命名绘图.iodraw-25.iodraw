@@ -1996,8 +1996,11 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-859" value="&lt;font&gt;W&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="196" y="956.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qGzQSh2h5BA81JRafFgC-860" value="&lt;font&gt;Q&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1060" width="20" height="20" as="geometry" />
+        <mxCell id="qGzQSh2h5BA81JRafFgC-860" value="&lt;font&gt;E&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="216" y="956.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-861" value="&lt;font&gt;R&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1060" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
