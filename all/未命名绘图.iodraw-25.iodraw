@@ -2048,6 +2048,12 @@
           <mxGeometry x="339" y="976.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-877" value="&lt;font&gt;Z&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="183" y="996.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-878" value="&lt;font&gt;X&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="203" y="996.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-879" value="&lt;font&gt;Q&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="230" y="1050" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
