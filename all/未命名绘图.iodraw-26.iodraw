@@ -979,8 +979,8 @@
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1862" value="正面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="318" y="290.21000000000004" width="64" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1863" value="正面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="558" y="445" width="64" height="34" as="geometry" />
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1863" value="背面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="733" y="290.21000000000004" width="64" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
