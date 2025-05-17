@@ -2227,8 +2227,8 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-942" value="F11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="312" y="690" width="16" height="14.5" as="geometry" />
         </mxCell>
-        <mxCell id="qGzQSh2h5BA81JRafFgC-943" value="F10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="20" height="14.5" as="geometry" />
+        <mxCell id="qGzQSh2h5BA81JRafFgC-943" value="F12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="327.25" y="690" width="20" height="14.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
