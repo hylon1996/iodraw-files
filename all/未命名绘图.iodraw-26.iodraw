@@ -1378,7 +1378,7 @@
         <mxCell id="yvfW0Ym2SZnVbF2aiPML-1380" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="701.8471794871796" y="422.56651583710413" width="36.76282051282051" height="9.936651583710406" as="geometry" />
         </mxCell>
-        <mxCell id="yvfW0Ym2SZnVbF2aiPML-1382" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=0.5;" edge="1" parent="1" source="yvfW0Ym2SZnVbF2aiPML-1383">
+        <mxCell id="yvfW0Ym2SZnVbF2aiPML-1382" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="428" y="503.9721568627452" as="sourcePoint" />
             <mxPoint x="428" y="303.96999999999997" as="targetPoint" />
