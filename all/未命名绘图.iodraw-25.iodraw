@@ -2015,7 +2015,10 @@
           <mxGeometry x="316" y="956.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-866" value="&lt;font&gt;O&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1040" width="20" height="20" as="geometry" />
+          <mxGeometry x="336" y="956.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-867" value="&lt;font&gt;P&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="356" y="956.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
