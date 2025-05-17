@@ -976,7 +976,7 @@
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1860" value="180度金属支架开合转轴" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="525.5" y="243" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1862" value="360度折叠键盘转轴" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1862" value="正面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="553" y="474" width="64" height="34" as="geometry" />
         </mxCell>
       </root>
