@@ -2086,7 +2086,7 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-890" value="#&lt;div&gt;3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="220" y="941.5" width="20" height="14.5" as="geometry" />
         </mxCell>
-        <mxCell id="qGzQSh2h5BA81JRafFgC-891" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;!&lt;/font&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;1&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="qGzQSh2h5BA81JRafFgC-891" value="$&lt;div&gt;4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="220" y="1040" width="20" height="14.5" as="geometry" />
         </mxCell>
       </root>
