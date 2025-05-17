@@ -2258,6 +2258,9 @@
           <mxGeometry x="349" y="719.75" width="13.5" height="14.5" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-954" value="HOME" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="719.75" width="13.5" height="14.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-956" value="END" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=4;" vertex="1" parent="1">
           <mxGeometry x="370" y="750" width="13.5" height="14.5" as="geometry" />
         </mxCell>
       </root>
