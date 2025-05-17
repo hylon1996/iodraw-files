@@ -1787,7 +1787,7 @@
           <mxGeometry x="177" y="1000" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-753" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="890" width="20" height="20" as="geometry" />
+          <mxGeometry x="160" y="1000" width="16" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
