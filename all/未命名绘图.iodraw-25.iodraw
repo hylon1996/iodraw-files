@@ -2191,6 +2191,9 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-926" value="&amp;lt;Back&lt;div&gt;Space&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="376" y="959.25" width="20" height="14.5" as="geometry" />
         </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-927" value="Shift" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1050" width="20" height="14.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
