@@ -958,14 +958,11 @@
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1856" value="散热进风口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="760" y="245" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1858" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1858" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1" source="ZybLXsTPDPJzVznBQ50U-1859">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="794" y="564" as="sourcePoint" />
             <mxPoint x="794" y="498" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1859" value="背部金属支架，同时也是折叠键盘的保护壳" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="741" y="549" width="101" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1861" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZybLXsTPDPJzVznBQ50U-1860">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -996,6 +993,15 @@
             <mxPoint x="946.5" y="514" as="sourcePoint" />
             <mxPoint x="946.5" y="365" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-2329" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1" target="ZybLXsTPDPJzVznBQ50U-1859">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="794" y="564" as="sourcePoint" />
+            <mxPoint x="794" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1859" value="背部金属支架，同时也是折叠键盘的保护壳" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="744.5" y="531" width="101" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
