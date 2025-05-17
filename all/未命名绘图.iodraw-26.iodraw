@@ -919,18 +919,9 @@
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1850" value="前置摄像头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="345.5" y="248" width="69" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1851" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" parent="1" edge="1">
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1853" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;entryX=0.825;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.062;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="ZybLXsTPDPJzVznBQ50U-923" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="589" y="448" as="sourcePoint" />
-            <mxPoint x="510" y="448" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1852" value="3：2或16：10显示屏幕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="551" y="428" width="59" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1853" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;entryX=0.825;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.062;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZybLXsTPDPJzVznBQ50U-1854" target="ZybLXsTPDPJzVznBQ50U-923" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="258" as="sourcePoint" />
+            <mxPoint x="552.4680000000001" y="258.00800000000004" as="sourcePoint" />
             <mxPoint x="472" y="248" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="258" />
@@ -946,9 +937,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1854" value="散热出风口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="548.5" y="248" width="64" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1857" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="799.86" y="255" as="sourcePoint" />
@@ -962,15 +950,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="794" y="564" as="sourcePoint" />
             <mxPoint x="794" y="498" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZybLXsTPDPJzVznBQ50U-1861" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="605.5" y="334" as="sourcePoint" />
-            <mxPoint x="660" y="365" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="334" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1862" value="正面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
