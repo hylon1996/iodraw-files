@@ -921,9 +921,12 @@
         </mxCell>
         <mxCell id="ZybLXsTPDPJzVznBQ50U-1851" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="400" as="sourcePoint" />
-            <mxPoint x="561" y="400" as="targetPoint" />
+            <mxPoint x="559" y="350" as="sourcePoint" />
+            <mxPoint x="480" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZybLXsTPDPJzVznBQ50U-1852" value="360度折叠键盘转轴" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="64" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
