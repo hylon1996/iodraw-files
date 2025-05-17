@@ -2188,6 +2188,9 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-925" value="Enter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="979.25" width="20" height="14.5" as="geometry" />
         </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-926" value="Shift" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1060" width="20" height="14.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
