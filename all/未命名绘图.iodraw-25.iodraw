@@ -1916,7 +1916,10 @@
           <mxGeometry x="382" y="1060" width="14" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-805" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1060" width="14" height="20" as="geometry" />
+          <mxGeometry x="365" y="1060" width="17" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qGzQSh2h5BA81JRafFgC-806" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1070" width="17" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
