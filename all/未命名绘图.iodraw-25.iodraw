@@ -2191,9 +2191,6 @@
         <mxCell id="qGzQSh2h5BA81JRafFgC-926" value="&amp;lt;Back&lt;div&gt;Space&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="308" y="722.75" width="20" height="14.5" as="geometry" />
         </mxCell>
-        <mxCell id="qGzQSh2h5BA81JRafFgC-927" value="DEL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=4;" vertex="1" parent="1">
-          <mxGeometry x="332.25" y="704.5" width="10" height="14.5" as="geometry" />
-        </mxCell>
         <mxCell id="qGzQSh2h5BA81JRafFgC-929" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="92" y="678" width="310" height="12" as="geometry" />
         </mxCell>
